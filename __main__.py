@@ -42,3 +42,21 @@ model.save_model('./code/u22-xgboost/model.json')
 df = pd.DataFrame({'Actual observed slippage': observed_slippage[valid_index],
                    'Predicted value': model.predict(dvalid)})
 print(df)
+
+from sklearn.metrics import mean_squared_error, mean_absolute_error, r2_score
+import numpy as np
+
+# Get predictions for the validation set
+predictions = model.predict(dvalid)
+
+# Calculate MSE, RMSE, MAE, and R-squared
+mse = mean_squared_error(observed_slippage[valid_index], predictions)
+rmse = np.sqrt(mse)
+mae = mean_absolute_error(observed_slippage[valid_index], predictions)
+r2 = r2_score(observed_slippage[valid_index], predictions)
+
+# Print the evaluation metrics
+print(f"Mean Squared Error (MSE): {mse}")
+print(f"Root Mean Squared Error (RMSE): {rmse}")
+print(f"Mean Absolute Error (MAE): {mae}")
+print(f"R-squared (R²): {r2}")
