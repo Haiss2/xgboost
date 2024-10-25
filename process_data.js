@@ -1,10 +1,12 @@
 var fs = require('fs');
 const csv = require('csv-parser');
 
-const dataFolder = "./code/u22-xgboost/data/"
+const batch = 59
 
-const tradeDetailsPath = dataFolder + "trade_details.json"
-const priceInfoPath = dataFolder + "price_info60049.csv"
+const dataFolder = `./code/u22-xgboost/data/${batch}/`
+
+const tradeDetailsPath = `./code/u22-xgboost/data/trade_details_${batch}.json`
+const priceInfoPath = `./code/u22-xgboost/data/price_info600${batch}.csv`
 
 var rawTradeDetails = JSON.parse(fs.readFileSync(tradeDetailsPath, 'utf8'));
 
@@ -15,7 +17,7 @@ var tradeDetails = rawTradeDetails.map(elem => {
     }
 })
 
-fs.writeFile(dataFolder + 'trades_details_json.json', JSON.stringify(tradeDetails), 'utf8', () => { });
+fs.writeFile(dataFolder + `trades_details_json_${batch}.json`, JSON.stringify(tradeDetails), 'utf8', () => { });
 
 const sign = side => side == "BUY" ? 1 : -1
 
@@ -37,9 +39,9 @@ const findPriceInfo = (prices, timestamp, marketType) => {
     }
 }
 
-const assets = ["ENJ", "JUP", "GMX", "NTRN", "RLC", "ACE", "STORJ", "TAO", "XRP", "UNI", "CHR", "LOKA", "MEME", "STX", "POL", "INJ", "ALPACA", "FLM", "SUSHI", "VANRY", "EIGEN", "MAGIC", "YGG", "FLOKI", "BAND", "APE", "WOO", "XAI", "OP", "HMSTR", "THETA", "UMA", "NFP", "KLAY", "TNSR", "API3", "NEIRO", "DYDX", "TURBO"]
+const assets = ["AGLD","ATOM","AXL","BAT","CATI","CHR","DUSK","FLM","PHB","PIXEL","RDNT","SCR","TAO","UNFI","VANRY","VOXEL","WIF"]
 
-if (false) {
+const cook = () => {
     let count = 0
     const prices = {};
     fs.createReadStream(priceInfoPath)
@@ -78,7 +80,7 @@ if (false) {
         })
         .on('end', () => {
             console.log('CSV file successfully processed');
-            console.log(`Processed ${prices.length} rows`);
+            console.log(`Processed ${count} rows`);
             for (const [key, value] of Object.entries(prices)) {
                 fs.writeFile(dataFolder + key + '.json', JSON.stringify(value), 'utf8', () => { });
             }
@@ -88,64 +90,73 @@ if (false) {
         });
 }
 
-var prices = {}
+const exec = () => {
+    var prices = {}
 
-// price_volatility
-// time_since_last_price_update
-// order size
-// order submission latency
-// number of orders
-// observed slippage = sign(side) * (Initial_pice - Executed_price) / Initial_pice * 1e4 (bps)
-var input = []
+    // price_volatility
+    // time_since_last_price_update
+    // order size
+    // order submission latency
+    // number of orders
+    // observed slippage = sign(side) * (Initial_pice - Executed_price) / Initial_pice * 1e4 (bps)
+    var input = []
 
-tradeDetails.forEach(t => {
-    job = t.data.job
-    res = t.data.invoke_result
-    if (res.first_order_cum_quote > 0) {
-        key = job.first_order_exchange + t.symbol
-        if (!prices[key])
-            prices[key] = JSON.parse(fs.readFileSync(dataFolder + key + ".json", 'utf8'));
+    tradeDetails.forEach(t => {
+        if (t.data.scenario == "handle-zero-net" || t.data.scenario == "handle-small-qty")
+            return
+        job = t.data.job
+        res = t.data.invoke_result
+        if (res.first_order_cum_quote > 0) {
+            key = job.first_order_exchange + t.symbol
+            if (!prices[key])
+                prices[key] = JSON.parse(fs.readFileSync(dataFolder + key + ".json", 'utf8'));
 
-        price = findPriceInfo(prices[key], new Date(res.first_order_requested_at).getTime(), job.first_order_market_type)
-        short = {
-            symbol: t.symbol,
-            exchange: job.first_order_exchange,
-            market_type: job.first_order_market_type,
-            side: job.first_order_side,
-            timestamp: new Date(res.first_order_requested_at).getTime(),
-            price_volatility: price.volatility,
-            time_since_last_price_update: price.last_update_interval,
-            order_size: job.first_order_raw_qty,
-            order_latency: new Date(res.first_order_finished_at) - new Date(res.first_order_requested_at),
-            order_count: res.first_order_placing_count,
-            observed_slippage: sign(job.first_order_side) * (1 - res.first_order_filled_price / job.first_order_raw_price)
+            price = findPriceInfo(prices[key], new Date(res.first_order_requested_at).getTime(), job.first_order_market_type)
+            short = {
+                symbol: t.symbol,
+                exchange: job.first_order_exchange,
+                market_type: job.first_order_market_type,
+                side: job.first_order_side,
+                timestamp: new Date(res.first_order_requested_at).getTime(),
+                price_volatility: price.volatility,
+                time_since_last_price_update: price.last_update_interval,
+                order_size: job.first_order_raw_qty,
+                order_latency: new Date(res.first_order_finished_at) - new Date(res.first_order_requested_at),
+                order_count: res.first_order_placing_count,
+                observed_slippage: sign(job.first_order_side) * (1 - res.first_order_filled_price / job.first_order_raw_price)
+            }
+
+            input.push(short)
         }
 
-        input.push(short)
-    }
+        if (res.second_order_cum_quote > 0) {
+            key = job.second_order_exchange + t.symbol
+            if (!prices[key])
+                prices[key] = JSON.parse(fs.readFileSync(dataFolder + key + ".json", 'utf8'));
 
-    if (res.second_order_cum_quote > 0) {
-        key = job.second_order_exchange + t.symbol
-        if (!prices[key])
-            prices[key] = JSON.parse(fs.readFileSync(dataFolder + key + ".json", 'utf8'));
+            price = findPriceInfo(prices[key], new Date(res.second_order_requested_at).getTime(), job.second_order_market_type)
+            short = {
+                symbol: t.symbol,
+                exchange: job.second_order_exchange,
+                market_type: job.second_order_market_type,
+                side: job.second_order_side,
+                timestamp: new Date(res.second_order_requested_at).getTime(),
+                price_volatility: price.volatility,
+                time_since_last_price_update: price.last_update_interval,
+                order_size: job.second_order_raw_qty,
+                order_latency: new Date(res.second_order_finished_at) - new Date(res.second_order_requested_at),
+                order_count: res.second_order_placing_count,
+                observed_slippage: sign(job.second_order_side) * (1 - res.second_order_filled_price / job.second_order_raw_price) * 1e2
+            }
 
-        price = findPriceInfo(prices[key], new Date(res.second_order_requested_at).getTime(), job.second_order_market_type)
-        short = {
-            symbol: t.symbol,
-            exchange: job.second_order_exchange,
-            market_type: job.second_order_market_type,
-            side: job.second_order_side,
-            timestamp: new Date(res.second_order_requested_at).getTime(),
-            price_volatility: price.volatility,
-            time_since_last_price_update: price.last_update_interval,
-            order_size: job.second_order_raw_qty,
-            order_latency: new Date(res.second_order_finished_at) - new Date(res.second_order_requested_at),
-            order_count: res.second_order_placing_count,
-            observed_slippage: sign(job.second_order_side) * (1 - res.second_order_filled_price / job.second_order_raw_price) * 1e2
+            input.push(short)
         }
+    })
 
-        input.push(short)
-    }
-})
+    fs.writeFile(`./code/u22-xgboost/data/input_${batch}.json`, JSON.stringify(input), 'utf8', () => { });
+}
 
-fs.writeFile(dataFolder + 'input.json', JSON.stringify(input), 'utf8', () => { });
+cooked = 1
+
+if (cooked) exec()
+else cook()
