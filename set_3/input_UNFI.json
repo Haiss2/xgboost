@@ -10,7 +10,7 @@
         "order_size": 52.7,
         "std_order_latency": 0,
         "std_order_count": 0.5,
-        "std_observed_slippage": 0.8235460906899589,
+        "std_observed_slippage": 0.0026163591297162503,
         "observed_slippage": 0
     },
     {
@@ -24,7 +24,7 @@
         "order_size": 52.7,
         "std_order_latency": 4.242640687119285,
         "std_order_count": 0.4714045207910317,
-        "std_observed_slippage": 0.8081774296359536,
+        "std_observed_slippage": 0.0024667270435222593,
         "observed_slippage": -0.3795561594561736
     },
     {
@@ -38,7 +38,7 @@
         "order_size": 8.1,
         "std_order_latency": 11.5,
         "std_order_count": 0.5,
-        "std_observed_slippage": 0.7807229261802624,
+        "std_observed_slippage": 0.3457485303936525,
         "observed_slippage": 0.00023397285914816823
     },
     {
@@ -52,7 +52,7 @@
         "order_size": 8.1,
         "std_order_latency": 34.988887124660344,
         "std_order_count": 0.816496580927726,
-        "std_observed_slippage": 0.7680281644718616,
+        "std_observed_slippage": 0.32603000249301717,
         "observed_slippage": 0.11574074074074403
     },
     {
@@ -66,7 +66,7 @@
         "order_size": 36.9,
         "std_order_latency": 36.908671067921155,
         "std_order_count": 0.82915619758885,
-        "std_observed_slippage": 0.7562277661489885,
+        "std_observed_slippage": 0.31967079388801284,
         "observed_slippage": -0.05948477751756431
     },
     {
@@ -80,7 +80,7 @@
         "order_size": 36.9,
         "std_order_latency": 51.09598810082843,
         "std_order_count": 0.8944271909999159,
-        "std_observed_slippage": 0.7447470188934049,
+        "std_observed_slippage": 0.2879082450917634,
         "observed_slippage": -0.09866798223974182
     },
     {
@@ -94,7 +94,7 @@
         "order_size": 11.8,
         "std_order_latency": 66.25471681322017,
         "std_order_count": 1,
-        "std_observed_slippage": 0.7338887078352426,
+        "std_observed_slippage": 0.08097072988382413,
         "observed_slippage": 0.00025680534155125834
     },
     {
@@ -108,7 +108,7 @@
         "order_size": 11.8,
         "std_order_latency": 63.823506641362165,
         "std_order_count": 0.9797958971132713,
-        "std_observed_slippage": 0.7233294709094789,
+        "std_observed_slippage": 0.07255118351724693,
         "observed_slippage": -1.8668012108980947
     },
     {
@@ -122,7 +122,7 @@
         "order_size": 50,
         "std_order_latency": 0.5,
         "std_order_count": 1,
-        "std_observed_slippage": 0.7367243653791622,
+        "std_observed_slippage": 0.05231723243904851,
         "observed_slippage": 0.0002500625156288683
     },
     {
@@ -136,7 +136,7 @@
         "order_size": 50,
         "std_order_latency": 0.816496580927726,
         "std_order_count": 0.9428090415820634,
-        "std_observed_slippage": 0.7277251207902697,
+        "std_observed_slippage": 0.048739691563837645,
         "observed_slippage": -0.14783689706615588
     },
     {
@@ -150,7 +150,7 @@
         "order_size": 4.6,
         "std_order_latency": 0.82915619758885,
         "std_order_count": 0.8660254037844386,
-        "std_observed_slippage": 0.7191693228003604,
+        "std_observed_slippage": 0.08912492649578178,
         "observed_slippage": -0.00022768670309658567
     },
     {
@@ -164,7 +164,7 @@
         "order_size": 4.6,
         "std_order_latency": 3.3823069050575527,
         "std_order_count": 0.8000000000000002,
-        "std_observed_slippage": 0.7107985155490676,
+        "std_observed_slippage": 0.0798518611334337,
         "observed_slippage": -0.6648326455754194
     },
     {
@@ -178,7 +178,7 @@
         "order_size": 4.3,
         "std_order_latency": 3.774917217635375,
         "std_order_count": 0.8660254037844386,
-        "std_observed_slippage": 0.7086318369062432,
+        "std_observed_slippage": 0.2732944633040703,
         "observed_slippage": -0.028053517479499357
     },
     {
@@ -192,7 +192,7 @@
         "order_size": 4.3,
         "std_order_latency": 3.8262252939417984,
         "std_order_count": 0.8,
-        "std_observed_slippage": 0.7007334800164091,
+        "std_observed_slippage": 0.25427928773419955,
         "observed_slippage": -0.5141962888441709
     },
     {
@@ -206,7 +206,7 @@
         "order_size": 32,
         "std_order_latency": 3.531603350069515,
         "std_order_count": 0.7637626158259734,
-        "std_observed_slippage": 0.6961942030964766,
+        "std_observed_slippage": 0.26554519320022957,
         "observed_slippage": -0.010897787028921968
     },
     {
@@ -220,7 +220,7 @@
         "order_size": 32,
         "std_order_latency": 3.5799897388976194,
         "std_order_count": 0.880630571852711,
-        "std_observed_slippage": 0.6888056156407693,
+        "std_observed_slippage": 0.25709277021840543,
         "observed_slippage": 0
     },
     {
@@ -234,7 +234,7 @@
         "order_size": 10.3,
         "std_order_latency": 3.4550687402713134,
         "std_order_count": 0.8569568250501305,
-        "std_observed_slippage": 0.6816688385742586,
+        "std_observed_slippage": 0.24899484892468757,
         "observed_slippage": 0
     },
     {
@@ -248,7 +248,7 @@
         "order_size": 10.3,
         "std_order_latency": 3.3333333333333335,
         "std_order_count": 0.8314794192830981,
-        "std_observed_slippage": 0.6747493644779671,
+        "std_observed_slippage": 0.2408078410401909,
         "observed_slippage": 0.020916126333414553
     },
     {
@@ -262,7 +262,7 @@
         "order_size": 4.3,
         "std_order_latency": 3.1622776601683795,
         "std_order_count": 0.806225774829855,
-        "std_observed_slippage": 0.6680847649372569,
+        "std_observed_slippage": 0.23424976511371892,
         "observed_slippage": 0
     },
     {
@@ -276,7 +276,7 @@
         "order_size": 4.3,
         "std_order_latency": 3.13603423830188,
         "std_order_count": 0.7820295697311479,
-        "std_observed_slippage": 0.6615669207648364,
+        "std_observed_slippage": 0.22667001216352503,
         "observed_slippage": -0.0985907324711599
     },
     {
@@ -290,7 +290,7 @@
         "order_size": 19.4,
         "std_order_latency": 3.003470215156683,
         "std_order_count": 0.7592027982620247,
-        "std_observed_slippage": 0.6551907843033788,
+        "std_observed_slippage": 0.21711860432091235,
         "observed_slippage": 0
     },
     {
@@ -304,7 +304,7 @@
         "order_size": 19.4,
         "std_order_latency": 2.923076923076923,
         "std_order_count": 0.7378202343558031,
-        "std_observed_slippage": 0.6490422925071668,
+        "std_observed_slippage": 0.2110490819319688,
         "observed_slippage": 0.10740158215691853
     },
     {
@@ -318,7 +318,7 @@
         "order_size": 41.9,
         "std_order_latency": 2.8184885224212652,
         "std_order_count": 0.7178482586514923,
-        "std_observed_slippage": 0.643422957551697,
+        "std_observed_slippage": 0.21100932648093634,
         "observed_slippage": 0.001224865470110914
     },
     {
@@ -332,7 +332,7 @@
         "order_size": 41.9,
         "std_order_latency": 4.498888751680797,
         "std_order_count": 0.7118052168020875,
-        "std_observed_slippage": 0.6376018995148571,
+        "std_observed_slippage": 0.2052752737242834,
         "observed_slippage": -0.3114610259422723
     },
     {
@@ -346,7 +346,7 @@
         "order_size": 8.6,
         "std_order_latency": 4.421653583012046,
         "std_order_count": 0.7284313590846836,
-        "std_observed_slippage": 0.6327578175748877,
+        "std_observed_slippage": 0.21803813115674867,
         "observed_slippage": -0.0023123817532060276
     },
     {
@@ -360,7 +360,7 @@
         "order_size": 8.6,
         "std_order_latency": 4.296768811819205,
         "std_order_count": 0.7180219742846007,
-        "std_observed_slippage": 0.6272364715633421,
+        "std_observed_slippage": 0.21225890626175023,
         "observed_slippage": 0.18777383684538407
     },
     {
@@ -374,7 +374,7 @@
         "order_size": 1.8,
         "std_order_latency": 4.317146638931878,
         "std_order_count": 0.6102859818083951,
-        "std_observed_slippage": 0.6226670806157237,
+        "std_observed_slippage": 0.16674593736551108,
         "observed_slippage": -0.0004159733777038266
     },
     {
@@ -388,7 +388,7 @@
         "order_size": 1.8,
         "std_order_latency": 4.292629341868066,
         "std_order_count": 0.5962847939999438,
-        "std_observed_slippage": 0.6174146476260088,
+        "std_observed_slippage": 0.16149795990762036,
         "observed_slippage": -0.6680584551148172
     },
     {
@@ -402,7 +402,7 @@
         "order_size": 37.4,
         "std_order_latency": 8.5,
         "std_order_count": 1,
-        "std_observed_slippage": 0.6088420567588851,
+        "std_observed_slippage": 0.19689402830422553,
         "observed_slippage": 0.012408620240741852
     },
     {
@@ -416,7 +416,7 @@
         "order_size": 37.4,
         "std_order_latency": 28.437065014988214,
         "std_order_count": 0.9428090415820634,
-        "std_observed_slippage": 0.6040865061562206,
+        "std_observed_slippage": 0.1965328527337556,
         "observed_slippage": 0.008834019810288751
     },
     {
@@ -430,7 +430,7 @@
         "order_size": 4.6,
         "std_order_latency": 25.262373206015305,
         "std_order_count": 1,
-        "std_observed_slippage": 0.5994330113038142,
+        "std_observed_slippage": 0.18316543779797856,
         "observed_slippage": -0.028878193261755003
     },
     {
@@ -444,7 +444,7 @@
         "order_size": 4.6,
         "std_order_latency": 24.83223711227001,
         "std_order_count": 0.9797958971132712,
-        "std_observed_slippage": 0.5948267690293977,
+        "std_observed_slippage": 0.16688700575279447,
         "observed_slippage": -0.018315018315007148
     },
     {
@@ -458,7 +458,7 @@
         "order_size": 25.3,
         "std_order_latency": 23.31249069109138,
         "std_order_count": 1,
-        "std_observed_slippage": 0.5903376039770626,
+        "std_observed_slippage": 0.15483393490530306,
         "observed_slippage": -1.1102230246251565e-16
     },
     {
@@ -472,7 +472,7 @@
         "order_size": 25.3,
         "std_order_latency": 22.403534706535456,
         "std_order_count": 0.989743318610787,
-        "std_observed_slippage": 0.5859763452958553,
+        "std_observed_slippage": 0.14606480028163582,
         "observed_slippage": 1.6198700219747009
     },
     {
@@ -486,7 +486,7 @@
         "order_size": 38,
         "std_order_latency": 21.441781642391568,
         "std_order_count": 1,
-        "std_observed_slippage": 0.6161385093660467,
+        "std_observed_slippage": 0.5749073083081105,
         "observed_slippage": -0.001575540793732011
     },
     {
@@ -500,7 +500,7 @@
         "order_size": 38,
         "std_order_latency": 20.254552909907613,
         "std_order_count": 0.9938079899999066,
-        "std_observed_slippage": 0.6116782087964344,
+        "std_observed_slippage": 0.5439127819645837,
         "observed_slippage": 0.004456012071740734
     },
     {
@@ -514,7 +514,7 @@
         "order_size": 14.1,
         "std_order_latency": 20.990697344299928,
         "std_order_count": 1,
-        "std_observed_slippage": 0.6073196242740723,
+        "std_observed_slippage": 0.5369685024998573,
         "observed_slippage": -0.01166729394053434
     },
     {
@@ -528,7 +528,7 @@
         "order_size": 14.1,
         "std_order_latency": 19.793377119071362,
         "std_order_count": 0.9428090415820634,
-        "std_observed_slippage": 0.603038475056476,
+        "std_observed_slippage": 0.5105939818156866,
         "observed_slippage": 0.0220705990014336
     },
     {
@@ -542,7 +542,7 @@
         "order_size": 34.2,
         "std_order_latency": 2,
         "std_order_count": 0.5,
-        "std_observed_slippage": 0.6082889921987412,
+        "std_observed_slippage": 0.6480530142931822,
         "observed_slippage": 0
     },
     {
@@ -556,7 +556,7 @@
         "order_size": 34.2,
         "std_order_latency": 25.508168626278653,
         "std_order_count": 0.4714045207910317,
-        "std_observed_slippage": 0.6042561751811338,
+        "std_observed_slippage": 0.6110728302070588,
         "observed_slippage": 0.0508992195452862
     },
     {
@@ -570,7 +570,7 @@
         "order_size": 34.3,
         "std_order_latency": 26.547127904916568,
         "std_order_count": 0.4330127018922193,
-        "std_observed_slippage": 0.6003930363005542,
+        "std_observed_slippage": 0.5690603174594424,
         "observed_slippage": 0.00006954656142277305
     },
     {
@@ -584,7 +584,7 @@
         "order_size": 34.3,
         "std_order_latency": 26.339324213046925,
         "std_order_count": 0.4000000000000001,
-        "std_observed_slippage": 0.5965146554823475,
+        "std_observed_slippage": 0.5240167005959384,
         "observed_slippage": -0.11888586956521063
     },
     {
@@ -598,7 +598,7 @@
         "order_size": 12.2,
         "std_order_latency": 25.044405008349113,
         "std_order_count": 0.3726779962499649,
-        "std_observed_slippage": 0.5927225723985687,
+        "std_observed_slippage": 0.48081735092528793,
         "observed_slippage": 0
     },
     {
@@ -612,7 +612,7 @@
         "order_size": 12.2,
         "std_order_latency": 24.18635135436378,
         "std_order_count": 0.34992710611188266,
-        "std_observed_slippage": 0.5889918587637506,
+        "std_observed_slippage": 0.4522098907793745,
         "observed_slippage": -0.02128476511635835
     },
     {
@@ -626,7 +626,7 @@
         "order_size": 9,
         "std_order_latency": 22.907422377910613,
         "std_order_count": 0.33071891388307384,
-        "std_observed_slippage": 0.5853109031427858,
+        "std_observed_slippage": 0.426885429985447,
         "observed_slippage": 0
     },
     {
@@ -640,7 +640,7 @@
         "order_size": 9,
         "std_order_latency": 22.072831185491587,
         "std_order_count": 0.31426968052735454,
-        "std_observed_slippage": 0.5817176070700016,
+        "std_observed_slippage": 0.40613766025059245,
         "observed_slippage": 0.16233949884043586
     },
     {
@@ -654,7 +654,7 @@
         "order_size": 13.2,
         "std_order_latency": 21.19339519756096,
         "std_order_count": 0.3,
-        "std_observed_slippage": 0.5786455873250055,
+        "std_observed_slippage": 0.3968115853878131,
         "observed_slippage": 0.006820119352088705
     },
     {
@@ -668,7 +668,7 @@
         "order_size": 13.2,
         "std_order_latency": 20.40256020233533,
         "std_order_count": 0.28747978728803447,
-        "std_observed_slippage": 0.5751838497757034,
+        "std_observed_slippage": 0.38016341249806923,
         "observed_slippage": 0.2535925612848544
     },
     {
@@ -682,7 +682,7 @@
         "order_size": 6.5,
         "std_order_latency": 19.58102823313083,
         "std_order_count": 0.2763853991962833,
-        "std_observed_slippage": 0.5726993717595593,
+        "std_observed_slippage": 0.3776423280784811,
         "observed_slippage": 0
     },
     {
@@ -696,7 +696,7 @@
         "order_size": 6.5,
         "std_order_latency": 19.060787220559796,
         "std_order_count": 0.2664693550105966,
-        "std_observed_slippage": 0.56934287728265,
+        "std_observed_slippage": 0.3634569675203391,
         "observed_slippage": -0.003626003626000518
     },
     {
@@ -710,7 +710,7 @@
         "order_size": 0.9,
         "std_order_latency": 18.379780372208266,
         "std_order_count": 0.2575393768188563,
-        "std_observed_slippage": 0.5660414455457937,
+        "std_observed_slippage": 0.3507058151555487,
         "observed_slippage": 0.0015140045420136694
     },
     {
@@ -724,7 +724,7 @@
         "order_size": 0.9,
         "std_order_latency": 24.482556148318245,
         "std_order_count": 0.5416025603090641,
-        "std_observed_slippage": 0.5628014158873177,
+        "std_observed_slippage": 0.3392710819569121,
         "observed_slippage": -0.23194680686562386
     },
     {
@@ -738,7 +738,7 @@
         "order_size": 3.2,
         "std_order_latency": 26.187802893869566,
         "std_order_count": 0.5150787536377127,
-        "std_observed_slippage": 0.5599447360640162,
+        "std_observed_slippage": 0.1072364417020784,
         "observed_slippage": -0.00009588690824058332
     },
     {
@@ -752,7 +752,7 @@
         "order_size": 3.2,
         "std_order_latency": 25.49562053896054,
         "std_order_count": 0.49888765156985887,
-        "std_observed_slippage": 0.5568122860986681,
+        "std_observed_slippage": 0.10361582201420998,
         "observed_slippage": -0.18895348837210113
     },
     {
@@ -766,7 +766,7 @@
         "order_size": 26.7,
         "std_order_latency": 0,
         "std_order_count": 1,
-        "std_observed_slippage": 0.6031738279732117,
+        "std_observed_slippage": 0.047351779622396895,
         "observed_slippage": -0.014865407794294794
     },
     {
@@ -780,7 +780,7 @@
         "order_size": 26.7,
         "std_order_latency": 18.384776310850235,
         "std_order_count": 1.247219128924647,
-        "std_observed_slippage": 0.6000208989748096,
+        "std_observed_slippage": 0.041866445989161644,
         "observed_slippage": 0.027427317608330615
     },
     {
@@ -794,7 +794,7 @@
         "order_size": 24.8,
         "std_order_latency": 20.54872258803452,
         "std_order_count": 1.299038105676658,
-        "std_observed_slippage": 0.5969748725473246,
+        "std_observed_slippage": 0.037235191606330716,
         "observed_slippage": -0.04961832061068716
     },
     {
@@ -808,7 +808,7 @@
         "order_size": 24.8,
         "std_order_latency": 36.729279873147526,
         "std_order_count": 1.2000000000000002,
-        "std_observed_slippage": 0.593894035455596,
+        "std_observed_slippage": 0.04161046103440211,
         "observed_slippage": 1.4205709602513328
     },
     {
@@ -822,7 +822,7 @@
         "order_size": 7.2,
         "std_order_latency": 40.21884577602341,
         "std_order_count": 1.2133516482134197,
-        "std_observed_slippage": 0.6095950738846478,
+        "std_observed_slippage": 0.530675343923454,
         "observed_slippage": 0
     },
     {
@@ -836,7 +836,7 @@
         "order_size": 7.2,
         "std_order_latency": 41.34178101077477,
         "std_order_count": 1.1952286093343936,
-        "std_observed_slippage": 0.6065349007045125,
+        "std_observed_slippage": 0.49825956105404123,
         "observed_slippage": 0
     },
     {
@@ -850,7 +850,7 @@
         "order_size": 7.2,
         "std_order_latency": 40.46294601237038,
         "std_order_count": 1.165922381636102,
-        "std_observed_slippage": 0.6035203514626676,
+        "std_observed_slippage": 0.4708958598789902,
         "observed_slippage": 0
     },
     {
@@ -864,7 +864,7 @@
         "order_size": 7.2,
         "std_order_latency": 40.11772798608406,
         "std_order_count": 1.1331154474650633,
-        "std_observed_slippage": 0.6005503037466133,
+        "std_observed_slippage": 0.44746509167994813,
         "observed_slippage": 0.27932960893854997
     },
     {
@@ -878,7 +878,7 @@
         "order_size": 27,
         "std_order_latency": 39.11636486178132,
         "std_order_count": 1.077032961426901,
-        "std_observed_slippage": 0.5985059200617868,
+        "std_observed_slippage": 0.42606050361691467,
         "observed_slippage": 0
     },
     {
@@ -892,7 +892,7 @@
         "order_size": 27,
         "std_order_latency": 38.35264814631071,
         "std_order_count": 1.0523488093445659,
-        "std_observed_slippage": 0.5956149879175653,
+        "std_observed_slippage": 0.40916625245815014,
         "observed_slippage": -0.055656045637964
     },
     {
@@ -906,7 +906,7 @@
         "order_size": 27.8,
         "std_order_latency": 37.278978288335935,
         "std_order_count": 1.0274023338281626,
-        "std_observed_slippage": 0.5927447015186572,
+        "std_observed_slippage": 0.39603598802551304,
         "observed_slippage": -0.011422203649533391
     },
     {
@@ -920,7 +920,7 @@
         "order_size": 27.8,
         "std_order_latency": 36.148117385730394,
         "std_order_count": 1.049090899768143,
-        "std_observed_slippage": 0.5899279937679177,
+        "std_observed_slippage": 0.3825526921167932,
         "observed_slippage": 0.28050490883591017
     },
     {
@@ -934,7 +934,7 @@
         "order_size": 6,
         "std_order_latency": 34.92681853620831,
         "std_order_count": 1.0301575072754254,
-        "std_observed_slippage": 0.5880115849017253,
+        "std_observed_slippage": 0.3707864504823989,
         "observed_slippage": -0.0016975526948649344
     },
     {
@@ -948,7 +948,7 @@
         "order_size": 6,
         "std_order_latency": 41.20172596169027,
         "std_order_count": 1.0110500592068734,
-        "std_observed_slippage": 0.5852741389883136,
+        "std_observed_slippage": 0.35987494362862826,
         "observed_slippage": 1.851931228270709
     },
     {
@@ -962,7 +962,7 @@
         "order_size": 3,
         "std_order_latency": 41.196508878180445,
         "std_order_count": 1.0307764064044151,
-        "std_observed_slippage": 0.6102965644153256,
+        "std_observed_slippage": 0.5437343742006667,
         "observed_slippage": 0.0053468208092486424
     },
     {
@@ -976,7 +976,7 @@
         "order_size": 3,
         "std_order_latency": 40.76797372522823,
         "std_order_count": 1.0154515589195336,
-        "std_observed_slippage": 0.6074997581912026,
+        "std_observed_slippage": 0.5302676550931548,
         "observed_slippage": 0.028943560057881346
     },
     {
@@ -990,7 +990,7 @@
         "order_size": 4.7,
         "std_order_latency": 40.1790744628514,
         "std_order_count": 0.9999999999999999,
-        "std_observed_slippage": 0.604757392802508,
+        "std_observed_slippage": 0.5172171554342754,
         "observed_slippage": 0
     },
     {
@@ -1004,7 +1004,7 @@
         "order_size": 4.7,
         "std_order_latency": 39.69816870257304,
         "std_order_count": 0.9846466807299845,
-        "std_observed_slippage": 0.6020332521368573,
+        "std_observed_slippage": 0.5056235988747327,
         "observed_slippage": -0.23612750885477762
     },
     {
@@ -1018,7 +1018,7 @@
         "order_size": 30.4,
         "std_order_latency": 38.93645464086323,
         "std_order_count": 0.9695359714832655,
-        "std_observed_slippage": 0.599657573748775,
+        "std_observed_slippage": 0.5019019682470093,
         "observed_slippage": -0.0006083650190114032
     },
     {
@@ -1032,7 +1032,7 @@
         "order_size": 30.4,
         "std_order_latency": 38.31111453088567,
         "std_order_count": 0.9547589359887345,
-        "std_observed_slippage": 0.5970048474826108,
+        "std_observed_slippage": 0.4912833560648088,
         "observed_slippage": -1.910079341757276
     },
     {
@@ -1046,7 +1046,7 @@
         "order_size": 4.5,
         "std_order_latency": 38.97855179454465,
         "std_order_count": 0.9695359714832656,
-        "std_observed_slippage": 0.6196917462122843,
+        "std_observed_slippage": 0.6777102915300212,
         "observed_slippage": -0.003825920612147371
     },
     {
@@ -1060,7 +1060,7 @@
         "order_size": 4.5,
         "std_order_latency": 38.32271370202701,
         "std_order_count": 0.9547589359887345,
-        "std_observed_slippage": 0.6170043514361956,
+        "std_observed_slippage": 0.6616224297993551,
         "observed_slippage": -0.015708451146723146
     },
     {
@@ -1074,7 +1074,7 @@
         "order_size": 6.8,
         "std_order_latency": 37.64605167360278,
         "std_order_count": 0.9403709484353274,
-        "std_observed_slippage": 0.6143455857936013,
+        "std_observed_slippage": 0.6466970491506229,
         "observed_slippage": 0
     },
     {
@@ -1088,7 +1088,7 @@
         "order_size": 6.8,
         "std_order_latency": 37.065721021696355,
         "std_order_count": 0.9264032935940224,
-        "std_observed_slippage": 0.6117291972260182,
+        "std_observed_slippage": 0.6326548559446652,
         "observed_slippage": -1.1102230246251565e-14
     },
     {
@@ -1102,7 +1102,7 @@
         "order_size": 25.3,
         "std_order_latency": 36.40961030033447,
         "std_order_count": 0.9128709291752769,
-        "std_observed_slippage": 0.6091459532697742,
+        "std_observed_slippage": 0.6194892173893294,
         "observed_slippage": -0.0034331029387035805
     },
     {
@@ -1116,7 +1116,7 @@
         "order_size": 25.3,
         "std_order_latency": 35.876320881606574,
         "std_order_count": 0.9414881836751855,
-        "std_observed_slippage": 0.6065931085231635,
+        "std_observed_slippage": 0.607127389939436,
         "observed_slippage": 0.047747891134819476
     },
     {
@@ -1130,7 +1130,7 @@
         "order_size": 3.3,
         "std_order_latency": 35.29210314473619,
         "std_order_count": 0.9294650748918903,
-        "std_observed_slippage": 0.6041190179058807,
+        "std_observed_slippage": 0.5953452311498115,
         "observed_slippage": 0
     },
     {
@@ -1144,7 +1144,7 @@
         "order_size": 3.3,
         "std_order_latency": 34.76521289212598,
         "std_order_count": 0.9177416069158421,
-        "std_observed_slippage": 0.6016307229970147,
+        "std_observed_slippage": 0.5843375514335268,
         "observed_slippage": 0
     },
     {
@@ -1158,7 +1158,7 @@
         "order_size": 16,
         "std_order_latency": 26.7050505002747,
         "std_order_count": 0.7534642216677135,
-        "std_observed_slippage": 0.5991729228019053,
+        "std_observed_slippage": 0.5513034810936649,
         "observed_slippage": 0.00015467904098986907
     },
     {
@@ -1172,7 +1172,7 @@
         "order_size": 16,
         "std_order_latency": 26.239999999999995,
         "std_order_count": 0.7418894796396562,
-        "std_observed_slippage": 0.5967450903384154,
+        "std_observed_slippage": 0.540168793125227,
         "observed_slippage": -1.0609275538041918
     },
     {
@@ -1186,7 +1186,7 @@
         "order_size": 8.2,
         "std_order_latency": 26.68632088209655,
         "std_order_count": 0.7592027982620247,
-        "std_observed_slippage": 0.6012665648307032,
+        "std_observed_slippage": 0.5914564700127789,
         "observed_slippage": 0.0001522997258603942
     },
     {
@@ -1200,7 +1200,7 @@
         "order_size": 8.2,
         "std_order_latency": 26.237194972023975,
         "std_order_count": 0.7483314773547883,
-        "std_observed_slippage": 0.5988741597574906,
+        "std_observed_slippage": 0.5795442842805988,
         "observed_slippage": -0.13576708402472937
     },
     {
@@ -1214,7 +1214,7 @@
         "order_size": 7.3,
         "std_order_latency": 2.065261756400137,
         "std_order_count": 0.7178482586514923,
-        "std_observed_slippage": 0.5965405689174944,
+        "std_observed_slippage": 0.5422404824321712,
         "observed_slippage": -0.012969179127250485
     },
     {
@@ -1228,7 +1228,7 @@
         "order_size": 7.3,
         "std_order_latency": 46.47503511444493,
         "std_order_count": 0.699205898780101,
-        "std_observed_slippage": 0.5941970965522805,
+        "std_observed_slippage": 0.5263974452966173,
         "observed_slippage": -1.1742304030466721
     },
     {
@@ -1242,7 +1242,7 @@
         "order_size": 2.8,
         "std_order_latency": 45.048888374187435,
         "std_order_count": 0.6817945071647321,
-        "std_observed_slippage": 0.600073492630024,
+        "std_observed_slippage": 0.5609509387984261,
         "observed_slippage": 2.220446049250313e-16
     },
     {
@@ -1256,7 +1256,7 @@
         "order_size": 2.8,
         "std_order_latency": 43.86192554039012,
         "std_order_count": 0.6655122646461624,
-        "std_observed_slippage": 0.5977662326077203,
+        "std_observed_slippage": 0.5478123413728607,
         "observed_slippage": -2.220446049250313e-14
     },
     {
@@ -1270,7 +1270,7 @@
         "order_size": 6.5,
         "std_order_latency": 45.07476428113629,
         "std_order_count": 0.5266343608235224,
-        "std_observed_slippage": 0.5954853800509807,
+        "std_observed_slippage": 0.3689334458787468,
         "observed_slippage": 0
     },
     {
@@ -1284,7 +1284,7 @@
         "order_size": 6.5,
         "std_order_latency": 43.908839191779485,
         "std_order_count": 0.5128116404165498,
-        "std_observed_slippage": 0.5932304351006081,
+        "std_observed_slippage": 0.3595950312529429,
         "observed_slippage": -0.007508479403461887
     },
     {
@@ -1298,7 +1298,7 @@
         "order_size": 34.7,
         "std_order_latency": 55.30650956261839,
         "std_order_count": 0.3,
-        "std_observed_slippage": 0.5909956734991321,
+        "std_observed_slippage": 0.44173609366109434,
         "observed_slippage": -0.01165420073056167
     },
     {
@@ -1312,7 +1312,7 @@
         "order_size": 34.7,
         "std_order_latency": 53.19339423351968,
         "std_order_count": 0.616575453011388,
-        "std_observed_slippage": 0.588783422471494,
+        "std_observed_slippage": 0.42622448658003387,
         "observed_slippage": 0.19197207678884887
     },
     {
@@ -1326,7 +1326,7 @@
         "order_size": 16.5,
         "std_order_latency": 55.423821593246345,
         "std_order_count": 0.6,
-        "std_observed_slippage": 0.5869762665188101,
+        "std_observed_slippage": 0.36086178742141795,
         "observed_slippage": 0.014555256064689992
     },
     {
@@ -1340,7 +1340,7 @@
         "order_size": 16.5,
         "std_order_latency": 52.8476681894088,
         "std_order_count": 0.5749595745760689,
-        "std_observed_slippage": 0.5848295197060196,
+        "std_observed_slippage": 0.3460781714324127,
         "observed_slippage": -2.7163907303152435
     },
     {
@@ -1354,7 +1354,7 @@
         "order_size": 35.7,
         "std_order_latency": 54.27190801878998,
         "std_order_count": 0.8,
-        "std_observed_slippage": 0.6254523374641412,
+        "std_observed_slippage": 0.8610451704039264,
         "observed_slippage": 0
     },
     {
@@ -1368,7 +1368,7 @@
         "order_size": 35.7,
         "std_order_latency": 52.34232520880652,
         "std_order_count": 0.77138921583987,
-        "std_observed_slippage": 0.6231982110386207,
+        "std_observed_slippage": 0.8278963669215244,
         "observed_slippage": -1.1102230246251565e-14
     },
     {
@@ -1382,7 +1382,7 @@
         "order_size": 3.8,
         "std_order_latency": 50.622993787408504,
         "std_order_count": 0.7453559924999298,
-        "std_observed_slippage": 0.6209682751235629,
+        "std_observed_slippage": 0.7981311543222966,
         "observed_slippage": 0
     },
     {
@@ -1396,7 +1396,7 @@
         "order_size": 3.8,
         "std_order_latency": 49.118622265434496,
         "std_order_count": 0.7216024245882199,
-        "std_observed_slippage": 0.6187621002393,
+        "std_observed_slippage": 0.7712471344232228,
         "observed_slippage": -0.03548616039745767
     },
     {
@@ -1410,7 +1410,7 @@
         "order_size": 5.2,
         "std_order_latency": 47.66277159291481,
         "std_order_count": 0.6998542122237652,
-        "std_observed_slippage": 0.616556546436946,
+        "std_observed_slippage": 0.7459844356970053,
         "observed_slippage": -0.003038970325348389
     },
     {
@@ -1424,7 +1424,7 @@
         "order_size": 5.2,
         "std_order_latency": 46.3788265866608,
         "std_order_count": 0.699205898780101,
-        "std_observed_slippage": 0.6143944466039978,
+        "std_observed_slippage": 0.7237132384768207,
         "observed_slippage": 0
     },
     {
@@ -1438,7 +1438,7 @@
         "order_size": 3.5,
         "std_order_latency": 45.15943976623271,
         "std_order_count": 0.6817945071647321,
-        "std_observed_slippage": 0.6122573976214466,
+        "std_observed_slippage": 0.7033471351084273,
         "observed_slippage": -0.011682650392327742
     },
     {
@@ -1452,7 +1452,7 @@
         "order_size": 3.5,
         "std_order_latency": 44.02680844203558,
         "std_order_count": 0.7714633558002353,
-        "std_observed_slippage": 0.6101336748569374,
+        "std_observed_slippage": 0.6843612024391491,
         "observed_slippage": 0.03475238922676649
     },
     {
@@ -1466,7 +1466,7 @@
         "order_size": 5.3,
         "std_order_latency": 10.526421783092085,
         "std_order_count": 0.8620067027323834,
-        "std_observed_slippage": 0.60807573524268,
+        "std_observed_slippage": 0.7573110109118886,
         "observed_slippage": -0.0023517554174365962
     },
     {
@@ -1480,7 +1480,7 @@
         "order_size": 5.3,
         "std_order_latency": 10.246084545850188,
         "std_order_count": 0.8426500884694863,
-        "std_observed_slippage": 0.6060019008139372,
+        "std_observed_slippage": 0.7297304407985676,
         "observed_slippage": -1.8138667570774647
     },
     {
@@ -1494,7 +1494,7 @@
         "order_size": 15.9,
         "std_order_latency": 10.606601717798213,
         "std_order_count": 0.7637626158259734,
-        "std_observed_slippage": 0.6208041814726775,
+        "std_observed_slippage": 0.8640503316273221,
         "observed_slippage": -0.0032992411745299544
     },
     {
@@ -1508,7 +1508,7 @@
         "order_size": 15.9,
         "std_order_latency": 10.359799408626706,
         "std_order_count": 0.7457969011409736,
-        "std_observed_slippage": 0.6187231935424323,
+        "std_observed_slippage": 0.8361290284929888,
         "observed_slippage": -2.9073698444895157
     },
     {
@@ -1522,7 +1522,7 @@
         "order_size": 20.2,
         "std_order_latency": 1.247219128924647,
         "std_order_count": 1.1547005383792515,
-        "std_observed_slippage": 0.6586414078017904,
+        "std_observed_slippage": 1.1587796917987119,
         "observed_slippage": -0.009372101360160423
     },
     {
@@ -1536,7 +1536,7 @@
         "order_size": 20.2,
         "std_order_latency": 1.178030178747903,
         "std_order_count": 1.0690449676496976,
-        "std_observed_slippage": 0.6564700996118303,
+        "std_observed_slippage": 1.1065331392475029,
         "observed_slippage": -0.1764234161988787
     },
     {
@@ -1550,7 +1550,7 @@
         "order_size": 7,
         "std_order_latency": 56.277339035253696,
         "std_order_count": 1.0671873729054748,
-        "std_observed_slippage": 0.6543074753005497,
+        "std_observed_slippage": 1.1366421502473858,
         "observed_slippage": -0.01788420733555629
     },
     {
@@ -1564,7 +1564,7 @@
         "order_size": 7,
         "std_order_latency": 52.84169658479166,
         "std_order_count": 1.0690449676496976,
-        "std_observed_slippage": 0.6521720385915417,
+        "std_observed_slippage": 1.0890056809054816,
         "observed_slippage": -0.36098310291858837
     },
     {
@@ -1578,7 +1578,7 @@
         "order_size": 4.2,
         "std_order_latency": 49.85087135647681,
         "std_order_count": 1.0532687216470449,
-        "std_observed_slippage": 0.6503646564176152,
+        "std_observed_slippage": 1.024982128230158,
         "observed_slippage": 0.0003140703517588994
     },
     {
@@ -1592,7 +1592,7 @@
         "order_size": 4.2,
         "std_order_latency": 47.38260346489111,
         "std_order_count": 1.0304020550550783,
-        "std_observed_slippage": 0.6482882705328097,
+        "std_observed_slippage": 0.9884877464531027,
         "observed_slippage": -0.032570155374445076
     },
     {
@@ -1606,7 +1606,7 @@
         "order_size": 3.1,
         "std_order_latency": 45.05108211796915,
         "std_order_count": 1.004987562112089,
-        "std_observed_slippage": 0.6462036431507575,
+        "std_observed_slippage": 0.9524462967204893,
         "observed_slippage": -0.0003678051358030343
     },
     {
@@ -1620,7 +1620,7 @@
         "order_size": 3.1,
         "std_order_latency": 43.231645892928604,
         "std_order_count": 0.9791208740244551,
-        "std_observed_slippage": 0.644166058969442,
+        "std_observed_slippage": 0.920910935014428,
         "observed_slippage": 0.06465168902538565
     },
     {
@@ -1634,7 +1634,7 @@
         "order_size": 11,
         "std_order_latency": 41.47355248294454,
         "std_order_count": 0.9537935951883,
-        "std_observed_slippage": 0.6422330066746517,
+        "std_observed_slippage": 0.8946505918873181,
         "observed_slippage": -0.008569118835893286
     },
     {
@@ -1648,7 +1648,7 @@
         "order_size": 11,
         "std_order_latency": 40.01257198881076,
         "std_order_count": 0.9230769230769231,
-        "std_observed_slippage": 0.6402250326834185,
+        "std_observed_slippage": 0.8671462663631042,
         "observed_slippage": 0
     },
     {
@@ -1662,7 +1662,7 @@
         "order_size": 6.2,
         "std_order_latency": 38.60692810829662,
         "std_order_count": 0.9035079029052514,
-        "std_observed_slippage": 0.6382437333954492,
+        "std_observed_slippage": 0.8420952726535562,
         "observed_slippage": 0
     },
     {
@@ -1676,7 +1676,7 @@
         "order_size": 6.2,
         "std_order_latency": 37.73380447291261,
         "std_order_count": 0.8844332774281066,
-        "std_observed_slippage": 0.636280701425399,
+        "std_observed_slippage": 0.8189382728500236,
         "observed_slippage": -0.03206155819172052
     },
     {
@@ -1690,7 +1690,7 @@
         "order_size": 6.2,
         "std_order_latency": 39.936748459921226,
         "std_order_count": 0.9063269671749657,
-        "std_observed_slippage": 0.6343101121894721,
+        "std_observed_slippage": 0.744216195231776,
         "observed_slippage": -0.00015740594994473334
     },
     {
@@ -1704,7 +1704,7 @@
         "order_size": 6.2,
         "std_order_latency": 38.8835297894737,
         "std_order_count": 0.8844332774281067,
-        "std_observed_slippage": 0.6323829063930876,
+        "std_observed_slippage": 0.7216524737484455,
         "observed_slippage": -0.03127932436659542
     },
     {
@@ -1718,7 +1718,7 @@
         "order_size": 33.1,
         "std_order_latency": 16.607394604680035,
         "std_order_count": 0.5951190357119042,
-        "std_observed_slippage": 0.630448715958273,
+        "std_observed_slippage": 0.1013762569347436,
         "observed_slippage": -0.00016567263088140827
     },
     {
@@ -1732,7 +1732,7 @@
         "order_size": 33.1,
         "std_order_latency": 16.169589398057553,
         "std_order_count": 0.5756395979652217,
-        "std_observed_slippage": 0.6285563903686526,
+        "std_observed_slippage": 0.09783816500290599,
         "observed_slippage": 0.016937669376704267
     },
     {
@@ -1746,7 +1746,7 @@
         "order_size": 19.5,
         "std_order_latency": 16.730502748639154,
         "std_order_count": 0.2763853991962833,
-        "std_observed_slippage": 0.6266981573575203,
+        "std_observed_slippage": 0.025103919019333506,
         "observed_slippage": -0.031671249227358866
     },
     {
@@ -1760,7 +1760,7 @@
         "order_size": 19.5,
         "std_order_latency": 16.200664753692624,
         "std_order_count": 0.5756395979652217,
-        "std_observed_slippage": 0.6248153487832628,
+        "std_observed_slippage": 0.02538698774902495,
         "observed_slippage": -0.33158586802310985
     },
     {
@@ -1774,7 +1774,7 @@
         "order_size": 27.2,
         "std_order_latency": 16.759740119968715,
         "std_order_count": 0.5951190357119042,
-        "std_observed_slippage": 0.6232009944178245,
+        "std_observed_slippage": 0.09444578796814793,
         "observed_slippage": 0
     },
     {
@@ -1788,7 +1788,7 @@
         "order_size": 27.2,
         "std_order_latency": 16.293172055229203,
         "std_order_count": 0.5756395979652217,
-        "std_observed_slippage": 0.6213762497505917,
+        "std_observed_slippage": 0.091080948681042,
         "observed_slippage": 0
     },
     {
@@ -1802,7 +1802,7 @@
         "order_size": 34.3,
         "std_order_latency": 15.72807836258428,
         "std_order_count": 0.5578749768504754,
-        "std_observed_slippage": 0.6195674282853759,
+        "std_observed_slippage": 0.08804795960396898,
         "observed_slippage": -0.026609442060085864
     },
     {
@@ -1816,7 +1816,7 @@
         "order_size": 34.3,
         "std_order_latency": 15.305191566553125,
         "std_order_count": 0.5416025603090641,
-        "std_observed_slippage": 0.6177536954921783,
+        "std_observed_slippage": 0.08506303272002398,
         "observed_slippage": -2.220446049250313e-14
     },
     {
@@ -1830,7 +1830,7 @@
         "order_size": 35.3,
         "std_order_latency": 14.887074930959406,
         "std_order_count": 0.5266343608235224,
-        "std_observed_slippage": 0.615976237691911,
+        "std_observed_slippage": 0.082590951198496,
         "observed_slippage": -0.0017667844522968323
     },
     {
@@ -1844,7 +1844,7 @@
         "order_size": 35.3,
         "std_order_latency": 14.549997324581495,
         "std_order_count": 0.5128116404165499,
-        "std_observed_slippage": 0.6142124719126097,
+        "std_observed_slippage": 0.08029260896140271,
         "observed_slippage": -2.220446049250313e-14
     },
     {
@@ -1858,7 +1858,7 @@
         "order_size": 1.4,
         "std_order_latency": 14.17058769266665,
         "std_order_count": 0.49999999999999994,
-        "std_observed_slippage": 0.612465298791707,
+        "std_observed_slippage": 0.07820053962582102,
         "observed_slippage": 2.220446049250313e-16
     },
     {
@@ -1872,7 +1872,7 @@
         "order_size": 1.4,
         "std_order_latency": 13.8540072905113,
         "std_order_count": 0.4880851839734583,
-        "std_observed_slippage": 0.6107329405150534,
+        "std_observed_slippage": 0.07626268982454558,
         "observed_slippage": -0.8957952468007457
     },
     {
@@ -1886,7 +1886,7 @@
         "order_size": 34.2,
         "std_order_latency": 13.628921454025624,
         "std_order_count": 0.5099019513592785,
-        "std_observed_slippage": 0.6119986592780128,
+        "std_observed_slippage": 0.2048095200227646,
         "observed_slippage": 0
     },
     {
@@ -1900,7 +1900,7 @@
         "order_size": 34.2,
         "std_order_latency": 13.300469703400166,
         "std_order_count": 0.4994327848429292,
-        "std_observed_slippage": 0.6102910934070084,
+        "std_observed_slippage": 0.20033665001891734,
         "observed_slippage": 0.05200208008320217
     },
     {
@@ -1914,7 +1914,7 @@
         "order_size": 10.5,
         "std_order_latency": 12.996503026164035,
         "std_order_count": 0.48956043701222757,
-        "std_observed_slippage": 0.6086566792722529,
+        "std_observed_slippage": 0.1971378147991842,
         "observed_slippage": -0.017347990381312295
     },
     {
@@ -1928,7 +1928,7 @@
         "order_size": 10.5,
         "std_order_latency": 12.769588162996959,
         "std_order_count": 0.507039295203939,
-        "std_observed_slippage": 0.606962983122606,
+        "std_observed_slippage": 0.1929635453233328,
         "observed_slippage": 0.06957731779438925
     },
     {
@@ -1942,7 +1942,7 @@
         "order_size": 36.4,
         "std_order_latency": 13.501851724856113,
         "std_order_count": 0.5099019513592785,
-        "std_observed_slippage": 0.6053803744344618,
+        "std_observed_slippage": 0.20598742984675553,
         "observed_slippage": -0.012034607183860735
     },
     {
@@ -1956,7 +1956,7 @@
         "order_size": 36.4,
         "std_order_latency": 19.73670223127426,
         "std_order_count": 0.628138378965377,
-        "std_observed_slippage": 0.6037178491030046,
+        "std_observed_slippage": 0.2012989217921395,
         "observed_slippage": 0.20142830983336246
     },
     {
@@ -1970,7 +1970,7 @@
         "order_size": 14.4,
         "std_order_latency": 17.217070017863087,
         "std_order_count": 0.6403124237432849,
-        "std_observed_slippage": 0.6024373845042824,
+        "std_observed_slippage": 0.2136693541575112,
         "observed_slippage": -0.00019282684149635188
     },
     {
@@ -1984,7 +1984,7 @@
         "order_size": 14.4,
         "std_order_latency": 23.499987938434693,
         "std_order_count": 0.628138378965377,
-        "std_observed_slippage": 0.6008092789754366,
+        "std_observed_slippage": 0.20879413665221222,
         "observed_slippage": -0.7956455593855161
     },
     {
@@ -1998,7 +1998,7 @@
         "order_size": 9.3,
         "std_order_latency": 25.23663012369124,
         "std_order_count": 0.7348469228349536,
-        "std_observed_slippage": 0.6014143065071001,
+        "std_observed_slippage": 0.26822214288867435,
         "observed_slippage": -0.004747884328968333
     },
     {
@@ -2012,7 +2012,7 @@
         "order_size": 9.3,
         "std_order_latency": 24.885406299918397,
         "std_order_count": 0.7221786137191952,
-        "std_observed_slippage": 0.599805901694944,
+        "std_observed_slippage": 0.26236703358544317,
         "observed_slippage": -0.6690279417552292
     },
     {
@@ -2026,7 +2026,7 @@
         "order_size": 40,
         "std_order_latency": 24.462486037614738,
         "std_order_count": 0.7100226978096958,
-        "std_observed_slippage": 0.599662280123666,
+        "std_observed_slippage": 0.28376865907571736,
         "observed_slippage": -0.00717434869739475
     },
     {
@@ -2040,7 +2040,7 @@
         "order_size": 40,
         "std_order_latency": 24.10343181646159,
         "std_order_count": 0.770436745507363,
-        "std_observed_slippage": 0.5980763007892063,
+        "std_observed_slippage": 0.2783410019232162,
         "observed_slippage": 0.3619545545948122
     },
     {
@@ -2054,7 +2054,7 @@
         "order_size": 5.3,
         "std_order_latency": 33.97402500440594,
         "std_order_count": 0.9682458365518543,
-        "std_observed_slippage": 0.5974111947617629,
+        "std_observed_slippage": 0.3783844968698438,
         "observed_slippage": 0
     },
     {
@@ -2068,7 +2068,7 @@
         "order_size": 4.4,
         "std_order_latency": 33.51432345346106,
         "std_order_count": 0.9428090415820634,
-        "std_observed_slippage": 0.5958518566368162,
+        "std_observed_slippage": 0.35859194022985813,
         "observed_slippage": 0.020601565719002846
     },
     {
@@ -2082,7 +2082,7 @@
         "order_size": 42.7,
         "std_order_latency": 1,
         "std_order_count": 0,
-        "std_observed_slippage": 0.5943238476410538,
+        "std_observed_slippage": 0.010300782859501423,
         "observed_slippage": -0.02500534302201296
     },
     {
@@ -2096,7 +2096,7 @@
         "order_size": 42.7,
         "std_order_latency": 58.45986277400551,
         "std_order_count": 0.9428090415820634,
-        "std_observed_slippage": 0.5927704478862544,
+        "std_observed_slippage": 0.018647853062705427,
         "observed_slippage": -0.19055684946009954
     },
     {
@@ -2110,7 +2110,7 @@
         "order_size": 33.8,
         "std_order_latency": 7,
         "std_order_count": 1,
-        "std_observed_slippage": 0.5912502863910684,
+        "std_observed_slippage": 0.08277575321904329,
         "observed_slippage": -0.0002094679514033082
     },
     {
@@ -2124,7 +2124,7 @@
         "order_size": 33.8,
         "std_order_latency": 55.91859162111372,
         "std_order_count": 0.9428090415820634,
-        "std_observed_slippage": 0.5897392271629466,
+        "std_observed_slippage": 0.08449474825997849,
         "observed_slippage": -2.220446049250313e-14
     },
     {
@@ -2138,7 +2138,7 @@
         "order_size": 8.9,
         "std_order_latency": 58.46954335378377,
         "std_order_count": 0.8660254037844386,
-        "std_observed_slippage": 0.5882398565945732,
+        "std_observed_slippage": 0.07952652320306214,
         "observed_slippage": -2.220446049250313e-16
     },
     {
@@ -2152,7 +2152,7 @@
         "order_size": 8.9,
         "std_order_latency": 57.49921738597839,
         "std_order_count": 0.8000000000000002,
-        "std_observed_slippage": 0.5867518544602491,
+        "std_observed_slippage": 0.07433134203467742,
         "observed_slippage": 0.04199916001679238
     },
     {
@@ -2166,7 +2166,7 @@
         "order_size": 40.1,
         "std_order_latency": 54.85941628887019,
         "std_order_count": 0.9428090415820634,
-        "std_observed_slippage": 0.5853168153278955,
+        "std_observed_slippage": 0.0749092114101742,
         "observed_slippage": 0.004417670682731134
     },
     {
@@ -2180,7 +2180,7 @@
         "order_size": 40.1,
         "std_order_latency": 51.048596294839186,
         "std_order_count": 0.9035079029052513,
-        "std_observed_slippage": 0.5838544670045606,
+        "std_observed_slippage": 0.07032920053820575,
         "observed_slippage": 0.5947660586835823
     },
     {
@@ -2194,7 +2194,7 @@
         "order_size": 6.6,
         "std_order_latency": 47.879405802495086,
         "std_order_count": 0.9682458365518543,
-        "std_observed_slippage": 0.5844104788275476,
+        "std_observed_slippage": 0.21501322474921813,
         "observed_slippage": -0.006575014943215662
     },
     {
@@ -2208,7 +2208,7 @@
         "order_size": 6.6,
         "std_order_latency": 46.634380365764116,
         "std_order_count": 0.9162456945817024,
-        "std_observed_slippage": 0.5829538524407974,
+        "std_observed_slippage": 0.20358428069364473,
         "observed_slippage": -0.1814882032668219
     },
     {
@@ -2222,7 +2222,7 @@
         "order_size": 33.5,
         "std_order_latency": 44.6922812127553,
         "std_order_count": 0.9,
-        "std_observed_slippage": 0.5815181925366144,
+        "std_observed_slippage": 0.20489390539431168,
         "observed_slippage": 2.220446049250313e-16
     },
     {
@@ -2236,7 +2236,7 @@
         "order_size": 33.5,
         "std_order_latency": 43.476411387181415,
         "std_order_count": 0.8813963377120598,
-        "std_observed_slippage": 0.5800884759184431,
+        "std_observed_slippage": 0.1954777952191144,
         "observed_slippage": 0.059630292188439515
     },
     {
@@ -2250,7 +2250,7 @@
         "order_size": 35.5,
         "std_order_latency": 4.710360920354193,
         "std_order_count": 0.4330127018922193,
-        "std_observed_slippage": 0.5787293139824348,
+        "std_observed_slippage": 0.09001835419982993,
         "observed_slippage": -0.0014659810716151078
     },
     {
@@ -2264,7 +2264,7 @@
         "order_size": 35.5,
         "std_order_latency": 4.308131845707604,
         "std_order_count": 0.4898979485566356,
-        "std_observed_slippage": 0.5773189877757922,
+        "std_observed_slippage": 0.0814424635932651,
         "observed_slippage": -0.1052410018943406
     },
     {
@@ -2278,7 +2278,7 @@
         "order_size": 19.8,
         "std_order_latency": 3.9440531887330774,
         "std_order_count": 0.4714045207910317,
-        "std_observed_slippage": 0.5758897576322124,
+        "std_observed_slippage": 0.07999964438127476,
         "observed_slippage": 0.00266011868221816
     },
     {
@@ -2292,7 +2292,7 @@
         "order_size": 19.8,
         "std_order_latency": 7.687785169756405,
         "std_order_count": 0.45175395145262565,
-        "std_observed_slippage": 0.5745033192130494,
+        "std_observed_slippage": 0.07549918194340029,
         "observed_slippage": -4.712691194708563
     },
     {
@@ -2306,7 +2306,7 @@
         "order_size": 20,
         "std_order_latency": 8.689073598491383,
         "std_order_count": 0.82915619758885,
-        "std_observed_slippage": 0.6579216262218709,
+        "std_observed_slippage": 2.0260985790589645,
         "observed_slippage": 0.0033721856943614847
     },
     {
@@ -2320,7 +2320,7 @@
         "order_size": 20,
         "std_order_latency": 8.404760555780278,
         "std_order_count": 0.8944271909999159,
-        "std_observed_slippage": 0.6563612915881587,
+        "std_observed_slippage": 1.8754656145120743,
         "observed_slippage": 0.2774474831549689
     },
     {
@@ -2334,7 +2334,7 @@
         "order_size": 14.3,
         "std_order_latency": 11.120551545074852,
         "std_order_count": 0.8975274678557508,
-        "std_observed_slippage": 0.6553140617635184,
+        "std_observed_slippage": 1.7733414345539158,
         "observed_slippage": 0
     },
     {
@@ -2348,7 +2348,7 @@
         "order_size": 14.3,
         "std_order_latency": 24.966916885661117,
         "std_order_count": 0.880630571852711,
-        "std_observed_slippage": 0.6537706703691119,
+        "std_observed_slippage": 1.6629710689633561,
         "observed_slippage": -2.220446049250313e-14
     },
     {
@@ -2362,7 +2362,7 @@
         "order_size": 5.5,
         "std_order_latency": 31.234746277183042,
         "std_order_count": 0.8569568250501305,
-        "std_observed_slippage": 0.6522381224980462,
+        "std_observed_slippage": 1.570259222739432,
         "observed_slippage": -0.0073649754500819675
     },
     {
@@ -2376,7 +2376,7 @@
         "order_size": 5.5,
         "std_order_latency": 29.552213679068668,
         "std_order_count": 0.9162456945817024,
-        "std_observed_slippage": 0.6507108258623441,
+        "std_observed_slippage": 1.4908645658822357,
         "observed_slippage": 0
     },
     {
@@ -2390,7 +2390,7 @@
         "order_size": 20.5,
         "std_order_latency": 28.03729658865134,
         "std_order_count": 0.9000000000000001,
-        "std_observed_slippage": 0.6491996285976401,
+        "std_observed_slippage": 1.422443093304493,
         "observed_slippage": -0.0037445392136469247
     },
     {
@@ -2404,7 +2404,7 @@
         "order_size": 20.5,
         "std_order_latency": 27.082671108665874,
         "std_order_count": 0.8813963377120598,
-        "std_observed_slippage": 0.6476961130094557,
+        "std_observed_slippage": 1.362418051186831,
         "observed_slippage": -0.08481764206955678
     },
     {
@@ -2418,7 +2418,7 @@
         "order_size": 35,
         "std_order_latency": 26.615967429763327,
         "std_order_count": 0.8620067027323834,
-        "std_observed_slippage": 0.6461680119268061,
+        "std_observed_slippage": 1.307572853314737,
         "observed_slippage": -0.009187253848908061
     },
     {
@@ -2432,7 +2432,7 @@
         "order_size": 35,
         "std_order_latency": 25.658660602325394,
         "std_order_count": 0.8426500884694863,
-        "std_observed_slippage": 0.6446816866014037,
+        "std_observed_slippage": 1.2602813468158887,
         "observed_slippage": 0.960307298335461
     },
     {
@@ -2446,7 +2446,7 @@
         "order_size": 20,
         "std_order_latency": 25.123876764414156,
         "std_order_count": 0.823754471047914,
-        "std_observed_slippage": 0.6472497302233735,
+        "std_observed_slippage": 1.2609342553234157,
         "observed_slippage": -0.0030381944444444198
     },
     {
@@ -2460,7 +2460,7 @@
         "order_size": 20,
         "std_order_latency": 24.277470122637478,
         "std_order_count": 0.8055363982396383,
-        "std_observed_slippage": 0.6457751767293709,
+        "std_observed_slippage": 1.2199017276478117,
         "observed_slippage": -2.128574500107505
     },
     {
@@ -2474,7 +2474,7 @@
         "order_size": 2,
         "std_order_latency": 23.536872668219964,
         "std_order_count": 0.8637671850678283,
-        "std_observed_slippage": 0.6588633252880879,
+        "std_observed_slippage": 1.2660581642360598,
         "observed_slippage": 0
     },
     {
@@ -2488,7 +2488,7 @@
         "order_size": 2,
         "std_order_latency": 23.44647146633056,
         "std_order_count": 0.8483650059915268,
-        "std_observed_slippage": 0.6573834877727825,
+        "std_observed_slippage": 1.231227403417196,
         "observed_slippage": 0
     },
     {
@@ -2502,7 +2502,7 @@
         "order_size": 6.1,
         "std_order_latency": 21,
         "std_order_count": 1,
-        "std_observed_slippage": 0.6531644983167674,
+        "std_observed_slippage": 0.07841369205145698,
         "observed_slippage": -0.018081940947585418
     },
     {
@@ -2516,7 +2516,7 @@
         "order_size": 6.1,
         "std_order_latency": 17.663521732655695,
         "std_order_count": 0.9428090415820634,
-        "std_observed_slippage": 0.6517109448779808,
+        "std_observed_slippage": 0.07446877653930108,
         "observed_slippage": 0.09115770282590585
     },
     {
@@ -2530,7 +2530,7 @@
         "order_size": 12.9,
         "std_order_latency": 15.35211711784404,
         "std_order_count": 1,
-        "std_observed_slippage": 0.6503730671874531,
+        "std_observed_slippage": 0.06881703225805635,
         "observed_slippage": -0.002298322224775884
     },
     {
@@ -2544,7 +2544,7 @@
         "order_size": 12.9,
         "std_order_latency": 34.179526035332906,
         "std_order_count": 0.8944271909999159,
-        "std_observed_slippage": 0.6489483031868526,
+        "std_observed_slippage": 0.06495410189243316,
         "observed_slippage": 0.11523392486749717
     },
     {
@@ -2558,7 +2558,7 @@
         "order_size": 11.9,
         "std_order_latency": 13.5,
         "std_order_count": 0.5,
-        "std_observed_slippage": 0.6476613829118711,
+        "std_observed_slippage": 0.05876612354613653,
         "observed_slippage": 0
     },
     {
@@ -2572,7 +2572,7 @@
         "order_size": 11.9,
         "std_order_latency": 12.727922061357855,
         "std_order_count": 0.4714045207910317,
-        "std_observed_slippage": 0.6462560824989104,
+        "std_observed_slippage": 0.054871535660806076,
         "observed_slippage": -2.220446049250313e-14
     },
     {
@@ -2586,7 +2586,7 @@
         "order_size": 43.2,
         "std_order_latency": 1,
         "std_order_count": 0,
-        "std_observed_slippage": 0.6448598825580425,
+        "std_observed_slippage": 1.1102230246251565e-14,
         "observed_slippage": -0.013108439862873134
     },
     {
@@ -2600,7 +2600,7 @@
         "order_size": 43.2,
         "std_order_latency": 0.816496580927726,
         "std_order_count": 0.9428090415820634,
-        "std_observed_slippage": 0.6434642467781864,
+        "std_observed_slippage": 0.006179377811870533,
         "observed_slippage": 0.4949429739616873
     },
     {
@@ -2614,7 +2614,7 @@
         "order_size": 18.7,
         "std_order_latency": 2.277608394786075,
         "std_order_count": 0.8660254037844386,
-        "std_observed_slippage": 0.6432566153964583,
+        "std_observed_slippage": 0.2162748535470132,
         "observed_slippage": -0.011945392491467866
     },
     {
@@ -2628,7 +2628,7 @@
         "order_size": 18.7,
         "std_order_latency": 3.3823069050575527,
         "std_order_count": 0.9797958971132713,
-        "std_observed_slippage": 0.6418756703718285,
+        "std_observed_slippage": 0.20056116772264748,
         "observed_slippage": 0.3594080338266359
     },
     {
@@ -2642,7 +2642,7 @@
         "order_size": 30.9,
         "std_order_latency": 3.496029493900505,
         "std_order_count": 0.9428090415820634,
-        "std_observed_slippage": 0.6411842797889341,
+        "std_observed_slippage": 0.2081004985524986,
         "observed_slippage": -0.01195120820757789
     },
     {
@@ -2656,7 +2656,7 @@
         "order_size": 30.9,
         "std_order_latency": 3.440455593940656,
         "std_order_count": 0.989743318610787,
-        "std_observed_slippage": 0.6398185211572723,
+        "std_observed_slippage": 0.19970109451920154,
         "observed_slippage": -0.10462439840969173
     },
     {
@@ -2670,7 +2670,7 @@
         "order_size": 3.8,
         "std_order_latency": 2.5,
         "std_order_count": 1,
-        "std_observed_slippage": 0.638438406484178,
+        "std_observed_slippage": 0.04633659510105692,
         "observed_slippage": 0.00020995171110649302
     },
     {
@@ -2684,7 +2684,7 @@
         "order_size": 3.8,
         "std_order_latency": 2.357022603955158,
         "std_order_count": 0.9428090415820634,
-        "std_observed_slippage": 0.6370974997961887,
+        "std_observed_slippage": 0.04681696624806852,
         "observed_slippage": -0.1053074978938584
     },
     {
@@ -2698,7 +2698,7 @@
         "order_size": 8.2,
         "std_order_latency": 2.0615528128088303,
         "std_order_count": 0.8660254037844386,
-        "std_observed_slippage": 0.635735084820965,
+        "std_observed_slippage": 0.049734451450984526,
         "observed_slippage": -0.0008354218880534114
     },
     {
@@ -2712,7 +2712,7 @@
         "order_size": 8.2,
         "std_order_latency": 2.0976176963403033,
         "std_order_count": 0.8,
-        "std_observed_slippage": 0.6344105964871614,
+        "std_observed_slippage": 0.049552989981199086,
         "observed_slippage": 0.02102165230185582
     },
     {
@@ -2726,7 +2726,7 @@
         "order_size": 41.7,
         "std_order_latency": 1.9148542155126762,
         "std_order_count": 0.7637626158259734,
-        "std_observed_slippage": 0.6331095899597866,
+        "std_observed_slippage": 0.05140566407245879,
         "observed_slippage": -0.0045948203842941515
     },
     {
@@ -2740,7 +2740,7 @@
         "order_size": 41.7,
         "std_order_latency": 20.02447482049741,
         "std_order_count": 1.124858267715973,
-        "std_observed_slippage": 0.6317991196005157,
+        "std_observed_slippage": 0.0486612660093516,
         "observed_slippage": -0.11151053930871235
     },
     {
@@ -2754,7 +2754,7 @@
         "order_size": 8,
         "std_order_latency": 24.649205531483837,
         "std_order_count": 1.1055415967851332,
-        "std_observed_slippage": 0.6304714678068581,
+        "std_observed_slippage": 0.05362433595020817,
         "observed_slippage": -0.00021199915200342812
     },
     {
@@ -2768,7 +2768,7 @@
         "order_size": 8,
         "std_order_latency": 23.377994187801868,
         "std_order_count": 1.049781318335648,
-        "std_observed_slippage": 0.6291800837955741,
+        "std_observed_slippage": 0.05099491196926456,
         "observed_slippage": 0
     },
     {
@@ -2782,7 +2782,7 @@
         "order_size": 42.4,
         "std_order_latency": 22.382680246118873,
         "std_order_count": 1,
-        "std_observed_slippage": 0.6278967281681317,
+        "std_observed_slippage": 0.048639562403819045,
         "observed_slippage": -0.00012774322309661024
     },
     {
@@ -2796,7 +2796,7 @@
         "order_size": 43,
         "std_order_latency": 21.416504538945347,
         "std_order_count": 0.9558139185602919,
-        "std_observed_slippage": 0.6266211102459817,
+        "std_observed_slippage": 0.046527364575768004,
         "observed_slippage": -0.6984694891671639
     },
     {
@@ -2810,7 +2810,7 @@
         "order_size": 40.4,
         "std_order_latency": 20.406126531020035,
         "std_order_count": 0.9219544457292888,
-        "std_observed_slippage": 0.6265317983683918,
+        "std_observed_slippage": 0.2075762645407019,
         "observed_slippage": -0.014737289188246905
     },
     {
@@ -2824,7 +2824,7 @@
         "order_size": 40.4,
         "std_order_latency": 20.87388340162086,
         "std_order_count": 0.9791208740244551,
-        "std_observed_slippage": 0.6252624730781592,
+        "std_observed_slippage": 0.19909481461653827,
         "observed_slippage": -0.4562539090619322
     },
     {
@@ -2838,7 +2838,7 @@
         "order_size": 2,
         "std_order_latency": 21.137775558358918,
         "std_order_count": 0.9537935951882998,
-        "std_observed_slippage": 0.6244071145687379,
+        "std_observed_slippage": 0.2167251673946853,
         "observed_slippage": -0.0005841953777321329
     },
     {
@@ -2852,7 +2852,7 @@
         "order_size": 2,
         "std_order_latency": 23.977060042549496,
         "std_order_count": 0.9294650748918901,
-        "std_observed_slippage": 0.6231613604324474,
+        "std_observed_slippage": 0.21041359557323355,
         "observed_slippage": 0.24009603841536054
     },
     {
@@ -2866,7 +2866,7 @@
         "order_size": 17.3,
         "std_order_latency": 25.78971451955217,
         "std_order_count": 0.7071067811865476,
-        "std_observed_slippage": 0.6222607475263023,
+        "std_observed_slippage": 0.28410195086943,
         "observed_slippage": 0
     },
     {
@@ -2880,7 +2880,7 @@
         "order_size": 17.3,
         "std_order_latency": 25.871477215909675,
         "std_order_count": 0.6849348892187752,
-        "std_observed_slippage": 0.6210288193997137,
+        "std_observed_slippage": 0.27033545091999633,
         "observed_slippage": 0.1558542762517101
     },
     {
@@ -2894,7 +2894,7 @@
         "order_size": 39.2,
         "std_order_latency": 26.10661899893503,
         "std_order_count": 0.7637626158259734,
-        "std_observed_slippage": 0.619977880672091,
+        "std_observed_slippage": 0.2196089818689903,
         "observed_slippage": 2.220446049250313e-16
     },
     {
@@ -2908,7 +2908,7 @@
         "order_size": 39.2,
         "std_order_latency": 26.30511706253119,
         "std_order_count": 0.7284313590846835,
-        "std_observed_slippage": 0.6187597096781904,
+        "std_observed_slippage": 0.20336624238917236,
         "observed_slippage": 0
     },
     {
@@ -2922,7 +2922,7 @@
         "order_size": 38.9,
         "std_order_latency": 25.79728667902886,
         "std_order_count": 0.6959705453537527,
-        "std_observed_slippage": 0.6175486861912268,
+        "std_observed_slippage": 0.19026525153350612,
         "observed_slippage": -2.220446049250313e-16
     },
     {
@@ -2936,7 +2936,7 @@
         "order_size": 38.9,
         "std_order_latency": 27.747984021978077,
         "std_order_count": 0.6666666666666667,
-        "std_observed_slippage": 0.6163447406390031,
+        "std_observed_slippage": 0.17940839823134128,
         "observed_slippage": -0.013299269934829994
     },
     {
@@ -2950,7 +2950,7 @@
         "order_size": 17.2,
         "std_order_latency": 27.997142711355387,
         "std_order_count": 0.6403124237432848,
-        "std_observed_slippage": 0.6151405120027863,
+        "std_observed_slippage": 0.1702080897601502,
         "observed_slippage": -0.00807256183459959
     },
     {
@@ -2964,7 +2964,7 @@
         "order_size": 17.2,
         "std_order_latency": 28.48720170808331,
         "std_order_count": 0.6428243465332251,
-        "std_observed_slippage": 0.6139460264154969,
+        "std_observed_slippage": 0.16228721712990882,
         "observed_slippage": -0.15468840682366647
     },
     {
@@ -2978,7 +2978,7 @@
         "order_size": 4,
         "std_order_latency": 30.672463220289302,
         "std_order_count": 0.4000000000000001,
-        "std_observed_slippage": 0.6127491185839867,
+        "std_observed_slippage": 0.10064692617420345,
         "observed_slippage": -0.0008097165991903799
     },
     {
@@ -2992,7 +2992,7 @@
         "order_size": 4,
         "std_order_latency": 30.92753460420366,
         "std_order_count": 0.385694607919935,
-        "std_observed_slippage": 0.611572791333933,
+        "std_observed_slippage": 0.09618549687409998,
         "observed_slippage": 0
     },
     {
@@ -3006,7 +3006,7 @@
         "order_size": 32.1,
         "std_order_latency": 0,
         "std_order_count": 0,
-        "std_observed_slippage": 0.6080982182503591,
+        "std_observed_slippage": 0.01003009027081847,
         "observed_slippage": -0.01189743589743597
     },
     {
@@ -3020,7 +3020,7 @@
         "order_size": 32.1,
         "std_order_latency": 2.357022603955158,
         "std_order_count": 0.4714045207910317,
-        "std_observed_slippage": 0.6069425255438335,
+        "std_observed_slippage": 0.013187742931995398,
         "observed_slippage": -0.08688491149072552
     },
     {
@@ -3034,7 +3034,7 @@
         "order_size": 43,
         "std_order_latency": 4,
         "std_order_count": 1,
-        "std_observed_slippage": 0.6037798135819205,
+        "std_observed_slippage": 0.19826802055638115,
         "observed_slippage": 0.00021547080370587501
     },
     {
@@ -3048,7 +3048,7 @@
         "order_size": 43,
         "std_order_latency": 3.39934634239519,
         "std_order_count": 0.9428090415820634,
-        "std_observed_slippage": 0.602656776883773,
+        "std_observed_slippage": 0.18693080908649967,
         "observed_slippage": 0.354649882466207
     },
     {
@@ -3062,7 +3062,7 @@
         "order_size": 32.2,
         "std_order_latency": 3,
         "std_order_count": 0.8660254037844386,
-        "std_observed_slippage": 0.602134893812917,
+        "std_observed_slippage": 0.26571958233095455,
         "observed_slippage": 0
     },
     {
@@ -3076,7 +3076,7 @@
         "order_size": 32.2,
         "std_order_latency": 3.1240998703626617,
         "std_order_count": 0.8000000000000002,
-        "std_observed_slippage": 0.6010222579784229,
+        "std_observed_slippage": 0.23770262472330903,
         "observed_slippage": -0.13230429988972947
     },
     {
@@ -3090,7 +3090,7 @@
         "order_size": 43.1,
         "std_order_latency": 3.091206165165235,
         "std_order_count": 0.74535599249993,
-        "std_observed_slippage": 0.5998975117793186,
+        "std_observed_slippage": 0.22186219250132935,
         "observed_slippage": 0
     },
     {
@@ -3104,7 +3104,7 @@
         "order_size": 43.1,
         "std_order_latency": 3.1363569143000216,
         "std_order_count": 0.6998542122237652,
-        "std_observed_slippage": 0.5987974102637998,
+        "std_observed_slippage": 0.205653736051535,
         "observed_slippage": -0.33496212473063114
     },
     {
@@ -3118,7 +3118,7 @@
         "order_size": 2.6,
         "std_order_latency": 3.082207001484488,
         "std_order_count": 0.6614378277661477,
-        "std_observed_slippage": 0.5978687213050893,
+        "std_observed_slippage": 0.21801168570301022,
         "observed_slippage": -0.0027932960893854997
     },
     {
@@ -3132,7 +3132,7 @@
         "order_size": 2.6,
         "std_order_latency": 3.2317865716108862,
         "std_order_count": 0.6285393610547091,
-        "std_observed_slippage": 0.5967794697751971,
+        "std_observed_slippage": 0.20642879840036726,
         "observed_slippage": 0.2646669607410779
     },
     {
@@ -3146,7 +3146,7 @@
         "order_size": 27.5,
         "std_order_latency": 3.0805843601498726,
         "std_order_count": 0.6000000000000001,
-        "std_observed_slippage": 0.5960598942443815,
+        "std_observed_slippage": 0.21829566915615992,
         "observed_slippage": -0.008743413449295856
     },
     {
@@ -3160,7 +3160,7 @@
         "order_size": 27.5,
         "std_order_latency": 3.1648900337325836,
         "std_order_count": 0.5749595745760688,
-        "std_observed_slippage": 0.594978239205431,
+        "std_observed_slippage": 0.20818707499618053,
         "observed_slippage": 0.1546277888226366
     },
     {
@@ -3174,7 +3174,7 @@
         "order_size": 9.1,
         "std_order_latency": 2.280350850198276,
         "std_order_count": 0,
-        "std_observed_slippage": 0.5940636720425487,
+        "std_observed_slippage": 0.18460760206604535,
         "observed_slippage": -0.003878621948437244
     },
     {
@@ -3188,7 +3188,7 @@
         "order_size": 9.1,
         "std_order_latency": 2.193152378511785,
         "std_order_count": 0,
-        "std_observed_slippage": 0.5929954976449011,
+        "std_observed_slippage": 0.17627836524535603,
         "observed_slippage": -0.9921082299887196
     },
     {
@@ -3202,7 +3202,7 @@
         "order_size": 22.5,
         "std_order_latency": 2.1778557242286634,
         "std_order_count": 0.2763853991962833,
-        "std_observed_slippage": 0.5944295694450927,
+        "std_observed_slippage": 0.32824154879233325,
         "observed_slippage": 0.011751152073732785
     },
     {
@@ -3216,7 +3216,7 @@
         "order_size": 22.5,
         "std_order_latency": 2.1122354181147664,
         "std_order_count": 0.5756395979652218,
-        "std_observed_slippage": 0.5933789195969775,
+        "std_observed_slippage": 0.3159175851580951,
         "observed_slippage": -0.4079782411604671
     },
     {
@@ -3230,7 +3230,7 @@
         "order_size": 24.5,
         "std_order_latency": 2.0354009783964297,
         "std_order_count": 0.5578749768504754,
-        "std_observed_slippage": 0.592613293635887,
+        "std_observed_slippage": 0.31785733403029565,
         "observed_slippage": 2.220446049250313e-16
     },
     {
@@ -3244,7 +3244,7 @@
         "order_size": 24.5,
         "std_order_latency": 2.1039645117412666,
         "std_order_count": 0.5416025603090641,
-        "std_observed_slippage": 0.5915672496150962,
+        "std_observed_slippage": 0.3077006133676567,
         "observed_slippage": -0.14667758220767713
     },
     {
@@ -3258,7 +3258,7 @@
         "order_size": 51.8,
         "std_order_latency": 3,
         "std_order_count": 0,
-        "std_observed_slippage": 0.5884477797304708,
+        "std_observed_slippage": 0.00030239675787402387,
         "observed_slippage": 0.002075765438505295
     },
     {
@@ -3272,7 +3272,7 @@
         "order_size": 51.8,
         "std_order_latency": 2.6246692913372702,
         "std_order_count": 0,
-        "std_observed_slippage": 0.5874249508460021,
+        "std_observed_slippage": 0.001147943749076801,
         "observed_slippage": 0.052392959100755476
     },
     {
@@ -3286,7 +3286,7 @@
         "order_size": 24.7,
         "std_order_latency": 2.29128784747792,
         "std_order_count": 0.4330127018922193,
-        "std_observed_slippage": 0.5864426454801168,
+        "std_observed_slippage": 0.022496477359567668,
         "observed_slippage": 2.220446049250313e-16
     },
     {
@@ -3300,7 +3300,7 @@
         "order_size": 24.7,
         "std_order_latency": 2.0591260281974,
         "std_order_count": 0.4,
-        "std_observed_slippage": 0.5854291149040629,
+        "std_observed_slippage": 0.020829940603005494,
         "observed_slippage": 0.10134279199391916
     },
     {
@@ -3314,7 +3314,7 @@
         "order_size": 10.8,
         "std_order_latency": 2.1147629234082532,
         "std_order_count": 0.3726779962499649,
-        "std_observed_slippage": 0.5845052413447879,
+        "std_observed_slippage": 0.03874102853458379,
         "observed_slippage": -0.011113917655973804
     },
     {
@@ -3328,7 +3328,7 @@
         "order_size": 10.8,
         "std_order_latency": 2.2497165354319457,
         "std_order_count": 0.45175395145262565,
-        "std_observed_slippage": 0.583496341010145,
+        "std_observed_slippage": 0.03813036317883913,
         "observed_slippage": 0.10178117048348367
     },
     {
@@ -3342,7 +3342,7 @@
         "order_size": 11.1,
         "std_order_latency": 2.1065374432940898,
         "std_order_count": 0.4330127018922193,
-        "std_observed_slippage": 0.582582110323644,
+        "std_observed_slippage": 0.04464615403471596,
         "observed_slippage": 2.220446049250313e-16
     },
     {
@@ -3356,7 +3356,7 @@
         "order_size": 11.1,
         "std_order_latency": 9.558139185602919,
         "std_order_count": 0.41573970964154905,
-        "std_observed_slippage": 0.5815886078578021,
+        "std_observed_slippage": 0.04318676702707536,
         "observed_slippage": 0.17985611510790145
     },
     {
@@ -3370,7 +3370,7 @@
         "order_size": 8.8,
         "std_order_latency": 16.1245154965971,
         "std_order_count": 0.45825756949558405,
-        "std_observed_slippage": 0.5807889209576932,
+        "std_observed_slippage": 0.061421979101858606,
         "observed_slippage": -1.1102230246251565e-16
     },
     {
@@ -3384,7 +3384,7 @@
         "order_size": 8.8,
         "std_order_latency": 20.851699893048337,
         "std_order_count": 0.4453617714151233,
-        "std_observed_slippage": 0.5798048480816701,
+        "std_observed_slippage": 0.05982876100710519,
         "observed_slippage": 0.7718034473887414
     },
     {
@@ -3398,7 +3398,7 @@
         "order_size": 11.7,
         "std_order_latency": 28.491104849681694,
         "std_order_count": 0.6400954789890506,
-        "std_observed_slippage": 0.5809793492297685,
+        "std_observed_slippage": 0.2105596813618068,
         "observed_slippage": 0
     },
     {
@@ -3412,7 +3412,7 @@
         "order_size": 11.7,
         "std_order_latency": 27.917460761763692,
         "std_order_count": 0.6249260311258431,
-        "std_observed_slippage": 0.5800001065154985,
+        "std_observed_slippage": 0.20403947876771072,
         "observed_slippage": -0.33889468196037775
     },
     {
@@ -3426,7 +3426,7 @@
         "order_size": 6.5,
         "std_order_latency": 27.298426358174076,
         "std_order_count": 0.6102859818083951,
-        "std_observed_slippage": 0.5792009647273627,
+        "std_observed_slippage": 0.225787494199305,
         "observed_slippage": -1.1102230246251565e-16
     },
     {
@@ -3440,7 +3440,7 @@
         "order_size": 6.5,
         "std_order_latency": 26.740398069005796,
         "std_order_count": 0.5962847939999438,
-        "std_observed_slippage": 0.5782318002442313,
+        "std_observed_slippage": 0.2186672755101013,
         "observed_slippage": -0.025119316754573795
     },
     {
@@ -3454,7 +3454,7 @@
         "order_size": 25,
         "std_order_latency": 26.06841959152875,
         "std_order_count": 0.582961190818051,
-        "std_observed_slippage": 0.577257188818838,
+        "std_observed_slippage": 0.21266025967268165,
         "observed_slippage": 2.220446049250313e-16
     },
     {
@@ -3468,7 +3468,7 @@
         "order_size": 25,
         "std_order_latency": 25.355738892993998,
         "std_order_count": 0.5703152773430976,
-        "std_observed_slippage": 0.576297735173957,
+        "std_observed_slippage": 0.20667456976344828,
         "observed_slippage": 0.2515723270440362
     },
     {
@@ -3482,7 +3482,7 @@
         "order_size": 1.5,
         "std_order_latency": 0.5,
         "std_order_count": 0,
-        "std_observed_slippage": 0.5737515930459803,
+        "std_observed_slippage": 5.440092820663267e-15,
         "observed_slippage": 0
     },
     {
@@ -3496,7 +3496,7 @@
         "order_size": 1.5,
         "std_order_latency": 22.395436042987765,
         "std_order_count": 0,
-        "std_observed_slippage": 0.5728100530730714,
+        "std_observed_slippage": 5.182098028974231e-15,
         "observed_slippage": -0.17056530214423216
     },
     {
@@ -3510,7 +3510,7 @@
         "order_size": 8.9,
         "std_order_latency": 23.50531854708632,
         "std_order_count": 0.8660254037844386,
-        "std_observed_slippage": 0.5718784340027615,
+        "std_observed_slippage": 0.07385694233053508,
         "observed_slippage": -0.004466977254042215
     },
     {
@@ -3524,7 +3524,7 @@
         "order_size": 8.9,
         "std_order_latency": 23.63556642012203,
         "std_order_count": 0.8,
-        "std_observed_slippage": 0.5709443257558042,
+        "std_observed_slippage": 0.06780149912069706,
         "observed_slippage": -0.40865384615385025
     },
     {
@@ -3538,7 +3538,7 @@
         "order_size": 15.2,
         "std_order_latency": 3,
         "std_order_count": 0.5,
-        "std_observed_slippage": 0.5739331938742316,
+        "std_observed_slippage": 0.5943344981417044,
         "observed_slippage": 0
     },
     {
@@ -3552,7 +3552,7 @@
         "order_size": 38.6,
         "std_order_latency": 5,
         "std_order_count": 1,
-        "std_observed_slippage": 0.571738947718122,
+        "std_observed_slippage": 0.2654280026542777,
         "observed_slippage": -0.012669683257918618
     },
     {
@@ -3566,7 +3566,7 @@
         "order_size": 38.6,
         "std_order_latency": 25.315783394730033,
         "std_order_count": 0.816496580927726,
-        "std_observed_slippage": 0.5708323717402134,
+        "std_observed_slippage": 0.24731574142432655,
         "observed_slippage": -1.113563559418651
     },
     {
@@ -3580,7 +3580,7 @@
         "order_size": 5.1,
         "std_order_latency": 3.5,
         "std_order_count": 0,
-        "std_observed_slippage": 0.5692902378297824,
+        "std_observed_slippage": 0.0029335446961487044,
         "observed_slippage": -2.220446049250313e-16
     },
     {
@@ -3594,7 +3594,7 @@
         "order_size": 5.1,
         "std_order_latency": 3.2998316455372216,
         "std_order_count": 0,
-        "std_observed_slippage": 0.5684116383907388,
+        "std_observed_slippage": 0.0027657724634141574,
         "observed_slippage": 0.19194953967249795
     },
     {
@@ -3608,7 +3608,7 @@
         "order_size": 45,
         "std_order_latency": 2.947456530637899,
         "std_order_count": 0.4330127018922193,
-        "std_observed_slippage": 0.5677354209618795,
+        "std_observed_slippage": 0.08230460776101994,
         "observed_slippage": 0
     },
     {
@@ -3622,7 +3622,7 @@
         "order_size": 45,
         "std_order_latency": 2.85657137141714,
         "std_order_count": 0.4,
-        "std_observed_slippage": 0.5668642728167935,
+        "std_observed_slippage": 0.07622698311163748,
         "observed_slippage": -0.13360053440214514
     },
     {
@@ -3636,7 +3636,7 @@
         "order_size": 19.5,
         "std_order_latency": 2.692582403567252,
         "std_order_count": 0.3726779962499649,
-        "std_observed_slippage": 0.5659804759994937,
+        "std_observed_slippage": 0.09490422087733691,
         "observed_slippage": 0.00011150771070089771
     },
     {
@@ -3650,7 +3650,7 @@
         "order_size": 19.5,
         "std_order_latency": 2.498979383505129,
         "std_order_count": 0.3499271061118826,
-        "std_observed_slippage": 0.5651175741659537,
+        "std_observed_slippage": 0.08794236352170501,
         "observed_slippage": -0.2676181980374781
     },
     {
@@ -3664,7 +3664,7 @@
         "order_size": 20.5,
         "std_order_latency": 2.394655507583502,
         "std_order_count": 0.4330127018922193,
-        "std_observed_slippage": 0.5643242188538476,
+        "std_observed_slippage": 0.12307608438485916,
         "observed_slippage": 0.00022431583669813016
     },
     {
@@ -3678,7 +3678,7 @@
         "order_size": 20.5,
         "std_order_latency": 7.38533749239283,
         "std_order_count": 0.415739709641549,
-        "std_observed_slippage": 0.563469511251571,
+        "std_observed_slippage": 0.1163165918043417,
         "observed_slippage": 0
     },
     {
@@ -3692,7 +3692,7 @@
         "order_size": 44.8,
         "std_order_latency": 9.4,
         "std_order_count": 0.4,
-        "std_observed_slippage": 0.562618561715205,
+        "std_observed_slippage": 0.11055501914569761,
         "observed_slippage": -0.002915758517901379
     },
     {
@@ -3706,7 +3706,7 @@
         "order_size": 44.8,
         "std_order_latency": 15.455614936257023,
         "std_order_count": 0.4453617714151233,
-        "std_observed_slippage": 0.5617700509072729,
+        "std_observed_slippage": 0.10552857009340665,
         "observed_slippage": -0.022311468094604603
     },
     {
@@ -3720,7 +3720,7 @@
         "order_size": 44.8,
         "std_order_latency": 20.025504571254462,
         "std_order_count": 0.4330127018922193,
-        "std_observed_slippage": 0.5609172674058235,
+        "std_observed_slippage": 0.10104077428447254,
         "observed_slippage": -0.009647745120035855
     },
     {
@@ -3734,7 +3734,7 @@
         "order_size": 44.8,
         "std_order_latency": 19.242765489103668,
         "std_order_count": 0.6249260311258431,
-        "std_observed_slippage": 0.560073386480842,
+        "std_observed_slippage": 0.09710898567609845,
         "observed_slippage": 0.1777382803821448
     },
     {
@@ -3748,7 +3748,7 @@
         "order_size": 4.1,
         "std_order_latency": 2.5,
         "std_order_count": 0.5,
-        "std_observed_slippage": 0.5577520682631075,
+        "std_observed_slippage": 0.0058036281482922725,
         "observed_slippage": -0.0027196652719665426
     },
     {
@@ -3762,7 +3762,7 @@
         "order_size": 4.1,
         "std_order_latency": 16.391054470858997,
         "std_order_count": 0.816496580927726,
-        "std_observed_slippage": 0.5569256771173295,
+        "std_observed_slippage": 0.0056278074325261706,
         "observed_slippage": 0.6028589820879282
     },
     {
@@ -3776,7 +3776,7 @@
         "order_size": 33.6,
         "std_order_latency": 1,
         "std_order_count": 0,
-        "std_observed_slippage": 0.5541022216718194,
+        "std_observed_slippage": 0.009663703131035262,
         "observed_slippage": -0.004637681159420315
     },
     {
@@ -3790,7 +3790,7 @@
         "order_size": 33.6,
         "std_order_latency": 14.636332266733431,
         "std_order_count": 0.4714045207910317,
-        "std_observed_slippage": 0.553293871974019,
+        "std_observed_slippage": 0.008238424491686644,
         "observed_slippage": 0.05068797404775838
     },
     {
@@ -3804,7 +3804,7 @@
         "order_size": 11.6,
         "std_order_latency": 6,
         "std_order_count": 0.5,
-        "std_observed_slippage": 0.5509412442437187,
+        "std_observed_slippage": 0.09079653357581874,
         "observed_slippage": -0.030594779632006852
     },
     {
@@ -3818,7 +3818,7 @@
         "order_size": 11.6,
         "std_order_latency": 52.55473337388365,
         "std_order_count": 0.816496580927726,
-        "std_observed_slippage": 0.5501378844713104,
+        "std_observed_slippage": 0.0861539952359569,
         "observed_slippage": 0.49848287819678205
     },
     {
@@ -3832,7 +3832,7 @@
         "order_size": 18.1,
         "std_order_latency": 54.444352324185104,
         "std_order_count": 0.82915619758885,
-        "std_observed_slippage": 0.5502306688289974,
+        "std_observed_slippage": 0.2666277854742558,
         "observed_slippage": 0.0004363001745202322
     },
     {
@@ -3846,7 +3846,7 @@
         "order_size": 18.1,
         "std_order_latency": 53.55968633216592,
         "std_order_count": 0.8,
-        "std_observed_slippage": 0.5494434973436831,
+        "std_observed_slippage": 0.2394801727423277,
         "observed_slippage": -0.5475251861585484
     },
     {
@@ -3860,7 +3860,7 @@
         "order_size": 5.8,
         "std_order_latency": 51.07184482014854,
         "std_order_count": 0.7453559924999299,
-        "std_observed_slippage": 0.5492174159840304,
+        "std_observed_slippage": 0.3105156058176322,
         "observed_slippage": -0.0031250000000000444
     },
     {
@@ -3874,7 +3874,7 @@
         "order_size": 5.8,
         "std_order_latency": 49.1175183844308,
         "std_order_count": 0.7284313590846835,
-        "std_observed_slippage": 0.5484352883963998,
+        "std_observed_slippage": 0.28804172202901873,
         "observed_slippage": -0.04545454545454852
     },
     {
@@ -3888,7 +3888,7 @@
         "order_size": 2,
         "std_order_latency": 47.19110085598767,
         "std_order_count": 0.7071067811865476,
-        "std_observed_slippage": 0.5476434935809195,
+        "std_observed_slippage": 0.26943891194079184,
         "observed_slippage": -0.0013477088948787852
     },
     {
@@ -3902,7 +3902,7 @@
         "order_size": 2,
         "std_order_latency": 45.44784013393272,
         "std_order_count": 0.6849348892187752,
-        "std_observed_slippage": 0.5468688231204788,
+        "std_observed_slippage": 0.2544324725964618,
         "observed_slippage": 0.3419193070435256
     },
     {
@@ -3916,7 +3916,7 @@
         "order_size": 5.7,
         "std_order_latency": 43.77453597698096,
         "std_order_count": 0.66332495807108,
-        "std_observed_slippage": 0.5465531660632413,
+        "std_observed_slippage": 0.2674257177910896,
         "observed_slippage": -0.005176682421787038
     },
     {
@@ -3930,7 +3930,7 @@
         "order_size": 5.7,
         "std_order_latency": 42.201014440824885,
         "std_order_count": 0.642824346533225,
-        "std_observed_slippage": 0.5457823785343262,
+        "std_observed_slippage": 0.25498089401304375,
         "observed_slippage": 0.068415051311288
     },
     {
@@ -3944,7 +3944,7 @@
         "order_size": 25.2,
         "std_order_latency": 40.808495847474376,
         "std_order_count": 0.6236095644623235,
-        "std_observed_slippage": 0.5450581672780431,
+        "std_observed_slippage": 0.2449360665769817,
         "observed_slippage": 2.220446049250313e-16
     },
     {
@@ -3958,7 +3958,7 @@
         "order_size": 25.2,
         "std_order_latency": 43.65003372034187,
         "std_order_count": 0.6056929133855238,
-        "std_observed_slippage": 0.544295816039596,
+        "std_observed_slippage": 0.23532781914490658,
         "observed_slippage": 0.09151223976208156
     },
     {
@@ -3972,7 +3972,7 @@
         "order_size": 34,
         "std_order_latency": 42.652666974059194,
         "std_order_count": 0.5890150893739515,
-        "std_observed_slippage": 0.543596815186988,
+        "std_observed_slippage": 0.22793106750033568,
         "observed_slippage": -0.004114285714285626
     },
     {
@@ -3986,7 +3986,7 @@
         "order_size": 34,
         "std_order_latency": 41.81514877011281,
         "std_order_count": 0.5962847939999438,
-        "std_observed_slippage": 0.5428389579714691,
+        "std_observed_slippage": 0.22022510118916508,
         "observed_slippage": 0.09218713989399552
     },
     {
@@ -4000,7 +4000,7 @@
         "order_size": 48.1,
         "std_order_latency": 3,
         "std_order_count": 0.5,
-        "std_observed_slippage": 0.5406579910302532,
+        "std_observed_slippage": 0.015550596568218333,
         "observed_slippage": 0.0012620188396733623
     },
     {
@@ -4014,7 +4014,7 @@
         "order_size": 48.1,
         "std_order_latency": 3.7416573867739413,
         "std_order_count": 0.816496580927726,
-        "std_observed_slippage": 0.5399145475162156,
+        "std_observed_slippage": 0.013198335801115213,
         "observed_slippage": -0.3162321095162235
     },
     {
@@ -4028,7 +4028,7 @@
         "order_size": 23.8,
         "std_order_latency": 2.5,
         "std_order_count": 0,
-        "std_observed_slippage": 0.5337124620716013,
+        "std_observed_slippage": 0.0732820377123935,
         "observed_slippage": -0.0038140643623361115
     },
     {
@@ -4042,7 +4042,7 @@
         "order_size": 23.8,
         "std_order_latency": 5.354126134736337,
         "std_order_count": 0,
-        "std_observed_slippage": 0.5329963008841042,
+        "std_observed_slippage": 0.06966061548778578,
         "observed_slippage": 0.1451027811366412
     },
     {
@@ -4056,7 +4056,7 @@
         "order_size": 21.4,
         "std_order_latency": 4.656984002549289,
         "std_order_count": 0,
-        "std_observed_slippage": 0.532394610151846,
+        "std_observed_slippage": 0.07387505538894179,
         "observed_slippage": 2.220446049250313e-16
     },
     {
@@ -4070,7 +4070,7 @@
         "order_size": 21.4,
         "std_order_latency": 4.963869458396342,
         "std_order_count": 0,
-        "std_observed_slippage": 0.5316853060778188,
+        "std_observed_slippage": 0.07196020668341929,
         "observed_slippage": -0.3353906697097342
     },
     {
@@ -4084,7 +4084,7 @@
         "order_size": 34.9,
         "std_order_latency": 4.536885862938733,
         "std_order_count": 0,
-        "std_observed_slippage": 0.5311364435881015,
+        "std_observed_slippage": 0.16031225132314253,
         "observed_slippage": -0.011023236485583343
     },
     {
@@ -4098,7 +4098,7 @@
         "order_size": 34.9,
         "std_order_latency": 29.865685722472026,
         "std_order_count": 0.3499271061118826,
-        "std_observed_slippage": 0.5304289526787619,
+        "std_observed_slippage": 0.14842314661620046,
         "observed_slippage": -0.24529174917301555
     },
     {
@@ -4112,7 +4112,7 @@
         "order_size": 34.9,
         "std_order_latency": 3.5,
         "std_order_count": 0.5,
-        "std_observed_slippage": 0.5297864219847173,
+        "std_observed_slippage": 0.1171342563437161,
         "observed_slippage": -0.0051137816415238735
     },
     {
@@ -4126,7 +4126,7 @@
         "order_size": 34.9,
         "std_order_latency": 26.318561257535844,
         "std_order_count": 0.4714045207910317,
-        "std_observed_slippage": 0.5290867175400304,
+        "std_observed_slippage": 0.11185412811181746,
         "observed_slippage": -0.025900025900038592
     },
     {
@@ -4140,7 +4140,7 @@
         "order_size": 52.7,
         "std_order_latency": 1.5,
         "std_order_count": 0,
-        "std_observed_slippage": 0.5270238643519024,
+        "std_observed_slippage": 0.09828108738891289,
         "observed_slippage": -0.008940022275172987
     },
     {
@@ -4154,7 +4154,7 @@
         "order_size": 52.7,
         "std_order_latency": 1.699673171197595,
         "std_order_count": 0,
-        "std_observed_slippage": 0.5263339446430563,
+        "std_observed_slippage": 0.09062663617612514,
         "observed_slippage": -1.002710027100262
     },
     {
@@ -4168,7 +4168,7 @@
         "order_size": 55.4,
         "std_order_latency": 0.5,
         "std_order_count": 0,
-        "std_observed_slippage": 0.5226318290864432,
+        "std_observed_slippage": 0.19452717060723934,
         "observed_slippage": 0.0018090575985924007
     },
     {
@@ -4182,7 +4182,7 @@
         "order_size": 55.4,
         "std_order_latency": 0.4714045207910317,
         "std_order_count": 0,
-        "std_observed_slippage": 0.5219700817659383,
+        "std_observed_slippage": 0.1838298578211605,
         "observed_slippage": 0.1648092921048505
     },
     {
@@ -4196,7 +4196,7 @@
         "order_size": 39.5,
         "std_order_latency": 1.5,
         "std_order_count": 0,
-        "std_observed_slippage": 0.521440465502936,
+        "std_observed_slippage": 0.20381315787471535,
         "observed_slippage": 1.1102230246251565e-16
     },
     {
@@ -4210,7 +4210,7 @@
         "order_size": 39.5,
         "std_order_latency": 1.6733200530681511,
         "std_order_count": 0,
-        "std_observed_slippage": 0.5207826830619987,
+        "std_observed_slippage": 0.1836480883687219,
         "observed_slippage": 0.02748007694421961
     },
     {
@@ -4224,7 +4224,7 @@
         "order_size": 28.4,
         "std_order_latency": 1.5723301886761007,
         "std_order_count": 0,
-        "std_observed_slippage": 0.5201396393077742,
+        "std_observed_slippage": 0.1697788638834966,
         "observed_slippage": -0.0008328706274290942
     },
     {
@@ -4238,7 +4238,7 @@
         "order_size": 28.4,
         "std_order_latency": 1.6413036132965795,
         "std_order_count": 0,
-        "std_observed_slippage": 0.5194864496473547,
+        "std_observed_slippage": 0.15757461988789148,
         "observed_slippage": -2.592592592592591
     },
     {
@@ -4252,7 +4252,7 @@
         "order_size": 47.6,
         "std_order_latency": 1.5811388300841898,
         "std_order_count": 0.33071891388307384,
-        "std_observed_slippage": 0.5341614992919804,
+        "std_observed_slippage": 0.8608815987725238,
         "observed_slippage": -0.012005562788495738
     },
     {
@@ -4266,7 +4266,7 @@
         "order_size": 47.6,
         "std_order_latency": 1.617802197617893,
         "std_order_count": 0.6666666666666666,
-        "std_observed_slippage": 0.5334916592526967,
+        "std_observed_slippage": 0.818509016994102,
         "observed_slippage": 1.1102230246251565e-14
     },
     {
@@ -4280,7 +4280,7 @@
         "order_size": 58.9,
         "std_order_latency": 1,
         "std_order_count": 0,
-        "std_observed_slippage": 0.5314953435914771,
+        "std_observed_slippage": 0.029913251570445887,
         "observed_slippage": 0.0011158355494789163
     },
     {
@@ -4294,7 +4294,7 @@
         "order_size": 58.9,
         "std_order_latency": 1.247219128924647,
         "std_order_count": 1.4142135623730951,
-        "std_observed_slippage": 0.5308402529791706,
+        "std_observed_slippage": 0.028469133796471313,
         "observed_slippage": -0.2186927349351775
     },
     {
@@ -4308,7 +4308,7 @@
         "order_size": 12.2,
         "std_order_latency": 1.224744871391589,
         "std_order_count": 1.299038105676658,
-        "std_observed_slippage": 0.5302156379931932,
+        "std_observed_slippage": 0.08967832227904361,
         "observed_slippage": -0.016200294550810068
     },
     {
@@ -4322,7 +4322,7 @@
         "order_size": 12.2,
         "std_order_latency": 16.037456157383563,
         "std_order_count": 1.2649110640673518,
-        "std_observed_slippage": 0.5295594248607599,
+        "std_observed_slippage": 0.08298046907133971,
         "observed_slippage": 0.11865915158706386
     },
     {
@@ -4336,7 +4336,7 @@
         "order_size": 60.6,
         "std_order_latency": 16.96483290679739,
         "std_order_count": 1.2133516482134197,
-        "std_observed_slippage": 0.5289905782569432,
+        "std_observed_slippage": 0.10053894713539277,
         "observed_slippage": 0.00030339805825241317
     },
     {
@@ -4350,7 +4350,7 @@
         "order_size": 60.6,
         "std_order_latency": 15.887358599380393,
         "std_order_count": 1.1605769149479943,
-        "std_observed_slippage": 0.5283447284645608,
+        "std_observed_slippage": 0.09365013001416385,
         "observed_slippage": -1.9449546764631287
     },
     {
@@ -4364,7 +4364,7 @@
         "order_size": 20,
         "std_order_latency": 15.14719445970111,
         "std_order_count": 1.3228756555322954,
-        "std_observed_slippage": 0.5358092975975336,
+        "std_observed_slippage": 0.6409965278904876,
         "observed_slippage": -0.005521472392638005
     },
     {
@@ -4378,7 +4378,7 @@
         "order_size": 20,
         "std_order_latency": 25.768197453450252,
         "std_order_count": 1.247219128924647,
-        "std_observed_slippage": 0.5351574568564245,
+        "std_observed_slippage": 0.6098121005075972,
         "observed_slippage": 0.12300123001229846
     },
     {
@@ -4392,7 +4392,7 @@
         "order_size": 2,
         "std_order_latency": 27.73463538610162,
         "std_order_count": 1.2206555615733703,
-        "std_observed_slippage": 0.5345939873804486,
+        "std_observed_slippage": 0.5884650467261068,
         "observed_slippage": -0.012713178294573635
     },
     {
@@ -4406,7 +4406,7 @@
         "order_size": 2,
         "std_order_latency": 27.456652538046974,
         "std_order_count": 1.1642044068059723,
-        "std_observed_slippage": 0.5339441168200294,
+        "std_observed_slippage": 0.5636626008577527,
         "observed_slippage": -0.09342883836811477
     },
     {
@@ -4420,7 +4420,7 @@
         "order_size": 32.4,
         "std_order_latency": 26.346515687826518,
         "std_order_count": 1.1426091000668408,
-        "std_observed_slippage": 0.5332846804930619,
+        "std_observed_slippage": 0.5402354847028713,
         "observed_slippage": -0.006637168141592875
     },
     {
@@ -4434,7 +4434,7 @@
         "order_size": 32.4,
         "std_order_latency": 26.255684084509436,
         "std_order_count": 1.0986812966989,
-        "std_observed_slippage": 0.532641717123079,
+        "std_observed_slippage": 0.5209925780722946,
         "observed_slippage": -0.03143665513989369
     },
     {
@@ -4448,7 +4448,7 @@
         "order_size": 33,
         "std_order_latency": 26.23909297212844,
         "std_order_count": 0.9797958971132712,
-        "std_observed_slippage": 0.5319935474467213,
+        "std_observed_slippage": 0.5893203315196086,
         "observed_slippage": 0.00022682193054879285
     },
     {
@@ -4462,7 +4462,7 @@
         "order_size": 33,
         "std_order_latency": 26.645825188948457,
         "std_order_count": 0.9620913858416692,
-        "std_observed_slippage": 0.5313578145197422,
+        "std_observed_slippage": 0.5644639639858876,
         "observed_slippage": -0.09448818897637157
     },
     {
@@ -4476,7 +4476,7 @@
         "order_size": 23.6,
         "std_order_latency": 28.146935890075138,
         "std_order_count": 0.9165151389911681,
-        "std_observed_slippage": 0.5307080619011266,
+        "std_observed_slippage": 0.5822515835500041,
         "observed_slippage": -0.002532446976891256
     },
     {
@@ -4490,7 +4490,7 @@
         "order_size": 23.6,
         "std_order_latency": 27.745895385512462,
         "std_order_count": 0.8907235428302466,
-        "std_observed_slippage": 0.5300759124725596,
+        "std_observed_slippage": 0.5582451254290034,
         "observed_slippage": -2.4565371409886128
     },
     {
@@ -4504,7 +4504,7 @@
         "order_size": 36,
         "std_order_latency": 28.705574371539754,
         "std_order_count": 1.1874342087037917,
-        "std_observed_slippage": 0.5421759868360287,
+        "std_observed_slippage": 0.7350453926938211,
         "observed_slippage": -0.0036684463248379817
     },
     {
@@ -4518,7 +4518,7 @@
         "order_size": 36,
         "std_order_latency": 28.00914844643112,
         "std_order_count": 1.1499191491521379,
-        "std_observed_slippage": 0.5415343282449636,
+        "std_observed_slippage": 0.7046420445054464,
         "observed_slippage": 0.029859659599873467
     },
     {
@@ -4532,7 +4532,7 @@
         "order_size": 60.1,
         "std_order_latency": 27.316432783216772,
         "std_order_count": 1.114924013354971,
-        "std_observed_slippage": 0.5409103677064088,
+        "std_observed_slippage": 0.6785998737982804,
         "observed_slippage": 0
     },
     {
@@ -4546,7 +4546,7 @@
         "order_size": 60.1,
         "std_order_latency": 26.741364806531028,
         "std_order_count": 1.08240363688233,
-        "std_observed_slippage": 0.5402746238582203,
+        "std_observed_slippage": 0.6544394526183281,
         "observed_slippage": 0.059648076349527734
     },
     {
@@ -4560,7 +4560,7 @@
         "order_size": 59.9,
         "std_order_latency": 26.086688293504203,
         "std_order_count": 1.0522085616183026,
-        "std_observed_slippage": 0.539672801031978,
+        "std_observed_slippage": 0.634073305925702,
         "observed_slippage": -2.220446049250313e-16
     },
     {
@@ -4574,7 +4574,7 @@
         "order_size": 59.9,
         "std_order_latency": 25.50241818599431,
         "std_order_count": 1.0241527663824812,
-        "std_observed_slippage": 0.5390414159849864,
+        "std_observed_slippage": 0.6141829277379119,
         "observed_slippage": 0.029691211401439155
     },
     {
@@ -4588,7 +4588,7 @@
         "order_size": 32.9,
         "std_order_latency": 24.94423467958077,
         "std_order_count": 0.998044963916957,
-        "std_observed_slippage": 0.5384259214155941,
+        "std_observed_slippage": 0.5965691038953489,
         "observed_slippage": -2.220446049250313e-16
     },
     {
@@ -4602,7 +4602,7 @@
         "order_size": 32.9,
         "std_order_latency": 24.444980945494834,
         "std_order_count": 0.9737026680733439,
-        "std_observed_slippage": 0.5377988958845643,
+        "std_observed_slippage": 0.5798907500844859,
         "observed_slippage": -0.23760023760023286
     },
     {
@@ -4616,7 +4616,7 @@
         "order_size": 59.9,
         "std_order_latency": 23.910132673083282,
         "std_order_count": 0.9509579315902049,
-        "std_observed_slippage": 0.5372061021155553,
+        "std_observed_slippage": 0.5639517803369724,
         "observed_slippage": -2.220446049250313e-16
     },
     {
@@ -4630,7 +4630,7 @@
         "order_size": 59.9,
         "std_order_latency": 27.88996980121107,
         "std_order_count": 0.9296590385608259,
-        "std_observed_slippage": 0.5365836133345553,
+        "std_observed_slippage": 0.5499329399870755,
         "observed_slippage": 0.26264739425743144
     },
     {
@@ -4644,7 +4644,7 @@
         "order_size": 1.7,
         "std_order_latency": 25.05549396395485,
         "std_order_count": 0.9509579315902049,
-        "std_observed_slippage": 0.5362185035735721,
+        "std_observed_slippage": 0.568672276884535,
         "observed_slippage": 0
     },
     {
@@ -4658,7 +4658,7 @@
         "order_size": 1.7,
         "std_order_latency": 24.447240949188945,
         "std_order_count": 0.9296590385608259,
-        "std_observed_slippage": 0.5355997626854847,
+        "std_observed_slippage": 0.5544131121041413,
         "observed_slippage": 0.09151921903599591
     },
     {
@@ -4672,7 +4672,7 @@
         "order_size": 1.8,
         "std_order_latency": 34.94437544154996,
         "std_order_count": 0.4330127018922193,
-        "std_observed_slippage": 0.5350369073585595,
+        "std_observed_slippage": 0.1284625197686597,
         "observed_slippage": 0
     },
     {
@@ -4686,7 +4686,7 @@
         "order_size": 1.8,
         "std_order_latency": 34.257557515292596,
         "std_order_count": 0.41573970964154905,
-        "std_observed_slippage": 0.5344222757596904,
+        "std_observed_slippage": 0.12125182840242393,
         "observed_slippage": 0
     },
     {
@@ -4700,7 +4700,7 @@
         "order_size": 42,
         "std_order_latency": 25,
         "std_order_count": 1,
-        "std_observed_slippage": 0.5314309862685246,
+        "std_observed_slippage": 0.129541448810716,
         "observed_slippage": -0.0015923566878981443
     },
     {
@@ -4714,7 +4714,7 @@
         "order_size": 42,
         "std_order_latency": 57.04579057408375,
         "std_order_count": 0.9428090415820634,
-        "std_observed_slippage": 0.5308284872681812,
+        "std_observed_slippage": 0.12794159219242485,
         "observed_slippage": -0.22210712784483944
     },
     {
@@ -4728,7 +4728,7 @@
         "order_size": 65.3,
         "std_order_latency": 3.5,
         "std_order_count": 0.5,
-        "std_observed_slippage": 0.5291141505279684,
+        "std_observed_slippage": 0.05118978003688551,
         "observed_slippage": 0.0009797517962115698
     },
     {
@@ -4742,7 +4742,7 @@
         "order_size": 65.3,
         "std_order_latency": 7.408703590297623,
         "std_order_count": 0.4714045207910317,
-        "std_observed_slippage": 0.5285207249768418,
+        "std_observed_slippage": 0.046813877748050486,
         "observed_slippage": -1.0441136902561654
     },
     {
@@ -4756,7 +4756,7 @@
         "order_size": 21.4,
         "std_order_latency": 6.456585785072479,
         "std_order_count": 0.82915619758885,
-        "std_observed_slippage": 0.5299035305610406,
+        "std_observed_slippage": 0.46721340636554654,
         "observed_slippage": -0.020158625247851836
     },
     {
@@ -4770,7 +4770,7 @@
         "order_size": 21.4,
         "std_order_latency": 9.465727652959385,
         "std_order_count": 0.7483314773547883,
-        "std_observed_slippage": 0.5293054831402071,
+        "std_observed_slippage": 0.42687059734769345,
         "observed_slippage": 0.10111223458036944
     },
     {
@@ -4784,7 +4784,7 @@
         "order_size": 31.2,
         "std_order_latency": 4.5,
         "std_order_count": 0.5,
-        "std_observed_slippage": 0.5287767211433804,
+        "std_observed_slippage": 0.06063542991411064,
         "observed_slippage": 0.0003313452617627055
     },
     {
@@ -4798,7 +4798,7 @@
         "order_size": 31.2,
         "std_order_latency": 7.760297817881877,
         "std_order_count": 0.4714045207910317,
-        "std_observed_slippage": 0.52818940286512,
+        "std_observed_slippage": 0.05300235632792421,
         "observed_slippage": -0.3546684262619837
     },
     {
@@ -4812,7 +4812,7 @@
         "order_size": 8.3,
         "std_order_latency": 4.5,
         "std_order_count": 0.5,
-        "std_observed_slippage": 0.5266580722757489,
+        "std_observed_slippage": 0.06545708194252392,
         "observed_slippage": 0
     },
     {
@@ -4826,7 +4826,7 @@
         "order_size": 8.3,
         "std_order_latency": 29.223278392404914,
         "std_order_count": 0.4714045207910317,
-        "std_observed_slippage": 0.5260783102405299,
+        "std_observed_slippage": 0.06089954134300427,
         "observed_slippage": 0.032123353678137345
     },
     {
@@ -4840,7 +4840,7 @@
         "order_size": 13.5,
         "std_order_latency": 29.063508047033828,
         "std_order_count": 0.4330127018922193,
-        "std_observed_slippage": 0.5255146565981874,
+        "std_observed_slippage": 0.0528896267047598,
         "observed_slippage": -0.0022471910112359383
     },
     {
@@ -4854,7 +4854,7 @@
         "order_size": 13.5,
         "std_order_latency": 28.265880492211807,
         "std_order_count": 0.8,
-        "std_observed_slippage": 0.5249378333222001,
+        "std_observed_slippage": 0.05010007660162708,
         "observed_slippage": -0.032144005143042165
     },
     {
@@ -4868,7 +4868,7 @@
         "order_size": 20,
         "std_order_latency": 1.5,
         "std_order_count": 0.5,
-        "std_observed_slippage": 0.5232076539783377,
+        "std_observed_slippage": 0.005599906221185336,
         "observed_slippage": 0.0006466214031684014
     },
     {
@@ -4882,7 +4882,7 @@
         "order_size": 20,
         "std_order_latency": 3.7416573867739413,
         "std_order_count": 0.4714045207910317,
-        "std_observed_slippage": 0.5226394372340606,
+        "std_observed_slippage": 0.005438462945031512,
         "observed_slippage": -0.5778491171749667
     },
     {
@@ -4896,7 +4896,7 @@
         "order_size": 6.6,
         "std_order_latency": 1,
         "std_order_count": 0.5,
-        "std_observed_slippage": 0.5214389104147787,
+        "std_observed_slippage": 0.0796532894806306,
         "observed_slippage": -0.006225425950196595
     },
     {
@@ -4910,7 +4910,7 @@
         "order_size": 6.6,
         "std_order_latency": 13.695092389449425,
         "std_order_count": 0.4714045207910317,
-        "std_observed_slippage": 0.520875610745745,
+        "std_observed_slippage": 0.07447751453980357,
         "observed_slippage": -0.03263707571800056
     },
     {
@@ -4924,7 +4924,7 @@
         "order_size": 36.6,
         "std_order_latency": 12.439855304624729,
         "std_order_count": 0.5,
-        "std_observed_slippage": 0.5203065942277579,
+        "std_observed_slippage": 0.06539536033365466,
         "observed_slippage": 0.001092021857923564
     },
     {
@@ -4938,7 +4938,7 @@
         "order_size": 36.6,
         "std_order_latency": 11.341957503006261,
         "std_order_count": 1.0954451150103321,
-        "std_observed_slippage": 0.5197495574161541,
+        "std_observed_slippage": 0.06213535803490844,
         "observed_slippage": -0.03214400514301996
     },
     {
@@ -4952,7 +4952,7 @@
         "order_size": 2,
         "std_order_latency": 0.5,
         "std_order_count": 1.5,
-        "std_observed_slippage": 0.5191843362858144,
+        "std_observed_slippage": 0.016618013500471762,
         "observed_slippage": -0.01581777918380256
     },
     {
@@ -4966,7 +4966,7 @@
         "order_size": 2,
         "std_order_latency": 5.436502143433364,
         "std_order_count": 1.247219128924647,
-        "std_observed_slippage": 0.5186252551166463,
+        "std_observed_slippage": 0.0135692483872322,
         "observed_slippage": -0.5808325266214887
     },
     {
@@ -4980,7 +4980,7 @@
         "order_size": 65.7,
         "std_order_latency": 0,
         "std_order_count": 0.5,
-        "std_observed_slippage": 0.5195348952204583,
+        "std_observed_slippage": 0.5394591527604654,
         "observed_slippage": -1.1102230246251565e-16
     },
     {
@@ -4994,7 +4994,7 @@
         "order_size": 65.7,
         "std_order_latency": 8.48528137423857,
         "std_order_count": 0.4714045207910317,
-        "std_observed_slippage": 0.518986550512172,
+        "std_observed_slippage": 0.5095505002305728,
         "observed_slippage": -0.06587615283266679
     },
     {
@@ -5008,7 +5008,7 @@
         "order_size": 2.7,
         "std_order_latency": 7.949056547792323,
         "std_order_count": 0.4330127018922193,
-        "std_observed_slippage": 0.5184244815590454,
+        "std_observed_slippage": 0.45957203085377574,
         "observed_slippage": -0.004033613445378337
     },
     {
@@ -5022,7 +5022,7 @@
         "order_size": 2.7,
         "std_order_latency": 10.480458005259122,
         "std_order_count": 0.4898979485566356,
-        "std_observed_slippage": 0.5178781944196249,
+        "std_observed_slippage": 0.42647949293224857,
         "observed_slippage": 0.03380662609873131
     },
     {
@@ -5036,7 +5036,7 @@
         "order_size": 13.5,
         "std_order_latency": 6.442049363362563,
         "std_order_count": 0.4330127018922193,
-        "std_observed_slippage": 0.5173499885537063,
+        "std_observed_slippage": 0.035961668255717893,
         "observed_slippage": 0
     },
     {
@@ -5050,7 +5050,7 @@
         "order_size": 13.5,
         "std_order_latency": 6.099180272790763,
         "std_order_count": 0.4,
-        "std_observed_slippage": 0.5168085424015022,
+        "std_observed_slippage": 0.032367076394007516,
         "observed_slippage": -0.0007574036203772394
     },
     {
@@ -5064,7 +5064,7 @@
         "order_size": 6.6,
         "std_order_latency": 7.3805299418281765,
         "std_order_count": 0.3726779962499649,
-        "std_observed_slippage": 0.5162685134088426,
+        "std_observed_slippage": 0.0296449805466898,
         "observed_slippage": 0
     },
     {
@@ -5078,7 +5078,7 @@
         "order_size": 6.6,
         "std_order_latency": 8.373914794144483,
         "std_order_count": 0.3499271061118826,
-        "std_observed_slippage": 0.5157304481346944,
+        "std_observed_slippage": 0.0275299816363436,
         "observed_slippage": -0.2053388090349051
     },
     {
@@ -5092,7 +5092,7 @@
         "order_size": 49.3,
         "std_order_latency": 9.26312882106017,
         "std_order_count": 0.3726779962499649,
-        "std_observed_slippage": 0.5152065006635425,
+        "std_observed_slippage": 0.07973091518619585,
         "observed_slippage": 0.0005091468991180736
     },
     {
@@ -5106,7 +5106,7 @@
         "order_size": 49.3,
         "std_order_latency": 8.741176309016202,
         "std_order_count": 0.34992710611188266,
-        "std_observed_slippage": 0.5146721139748253,
+        "std_observed_slippage": 0.07455412230456268,
         "observed_slippage": 1.2089810017271163
     },
     {
@@ -5120,7 +5120,7 @@
         "order_size": 15.9,
         "std_order_latency": 1,
         "std_order_count": 1,
-        "std_observed_slippage": 0.5192385461837957,
+        "std_observed_slippage": 0.6196665094226104,
         "observed_slippage": -0.002937653048640798
     },
     {
@@ -5134,7 +5134,7 @@
         "order_size": 15.9,
         "std_order_latency": 82.97121321411554,
         "std_order_count": 0.816496580927726,
-        "std_observed_slippage": 0.5187028319727242,
+        "std_observed_slippage": 0.5838640791264224,
         "observed_slippage": 0.1753155680224383
     },
     {
@@ -5148,7 +5148,7 @@
         "order_size": 17.3,
         "std_order_latency": 2,
         "std_order_count": 0,
-        "std_observed_slippage": 0.5151234417710765,
+        "std_observed_slippage": 5.551115123125783e-17,
         "observed_slippage": 0.0006426735218507673
     },
     {
@@ -5162,7 +5162,7 @@
         "order_size": 17.3,
         "std_order_latency": 2.8674417556808756,
         "std_order_count": 0,
-        "std_observed_slippage": 0.5146017892527077,
+        "std_observed_slippage": 0.00030295920359311947,
         "observed_slippage": -0.3219575016097709
     },
     {
@@ -5176,7 +5176,7 @@
         "order_size": 6.2,
         "std_order_latency": 4.5,
         "std_order_count": 1.5,
-        "std_observed_slippage": 0.5136567052240444,
+        "std_observed_slippage": 0.2990871272530285,
         "observed_slippage": 0
     },
     {
@@ -5190,7 +5190,7 @@
         "order_size": 6.2,
         "std_order_latency": 39.06404996924922,
         "std_order_count": 1.4142135623730951,
-        "std_observed_slippage": 0.513141117883406,
+        "std_observed_slippage": 0.28213021852079895,
         "observed_slippage": 0
     },
     {
@@ -5204,7 +5204,7 @@
         "order_size": 7.4,
         "std_order_latency": 3.5,
         "std_order_count": 0.5,
-        "std_observed_slippage": 0.5078265081526274,
+        "std_observed_slippage": 0.028661927966500744,
         "observed_slippage": 0
     },
     {
@@ -5218,7 +5218,7 @@
         "order_size": 7.4,
         "std_order_latency": 7.408703590297623,
         "std_order_count": 0.4714045207910317,
-        "std_observed_slippage": 0.5073313602851592,
+        "std_observed_slippage": 0.027626945696142276,
         "observed_slippage": 0
     },
     {
@@ -5232,7 +5232,7 @@
         "order_size": 16.1,
         "std_order_latency": 0.5,
         "std_order_count": 1,
-        "std_observed_slippage": 0.5070974261884833,
+        "std_observed_slippage": 0.7760703709502503,
         "observed_slippage": -0.009232728430436321
     },
     {
@@ -5246,7 +5246,7 @@
         "order_size": 16.1,
         "std_order_latency": 5.436502143433363,
         "std_order_count": 0.9428090415820634,
-        "std_observed_slippage": 0.5066102798337452,
+        "std_observed_slippage": 0.7292978557101664,
         "observed_slippage": -0.03205128205128194
     },
     {
@@ -5260,7 +5260,7 @@
         "order_size": 8.2,
         "std_order_latency": 1,
         "std_order_count": 1,
-        "std_observed_slippage": 0.49841562583997356,
+        "std_observed_slippage": 0.010324084992011318,
         "observed_slippage": 2.220446049250313e-16
     },
     {
@@ -5274,7 +5274,7 @@
         "order_size": 8.2,
         "std_order_latency": 1.632993161855452,
         "std_order_count": 0.9428090415820634,
-        "std_observed_slippage": 0.4979580653883525,
+        "std_observed_slippage": 0.009733640676530006,
         "observed_slippage": 0
     }
 ]
